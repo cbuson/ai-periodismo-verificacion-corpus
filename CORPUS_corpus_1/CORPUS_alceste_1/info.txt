@@ -1,0 +1,21 @@
+
++-+-+-+-+-+-+-+-+
+|i|R|a|M|u|T|e|Q| - Mon Oct 13 11:58:55 2025
++-+-+-+-+-+-+-+-+
+
+
+Número de textos: 31
+Número de segmentos de texto: 671
+Número de formas: 4436
+Número de ocurrencias: 24309
+Número de lemas: 3562
+Número de formas activas: 3055
+Número de formas suplementarias: 507
+Número de formas activas con una frecuencia >= 3: 1035
+Media de formas por segmento: 36.228018
+Número de clases: 3
+529 segmentos clasificados en 671 (78.84%)
+
+###########################
+tiempo : 0h 0m 28s
+###########################

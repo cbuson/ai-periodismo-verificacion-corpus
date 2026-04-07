@@ -1,0 +1,19 @@
+[wordcloud]
+type = wordcloud
+lem = 1
+pathout = C:\Users\user\OneDrive\Escritorio\PROYECTOS\FIN DE LO REAL\CORPUS_corpus_1\CORPUS_wordcloud_3
+corpus = 3f77debb-d718-4b18-a140-c66857bd0845
+uuid = 292a1a37-2dfa-41b0-bbe2-a6ed46ad0cfa
+name = CORPUS_wordcloud_3
+width = 800
+height = 800
+maxword = 600
+mincex = 0.5
+maxcex = 5.0
+col_text = (0, 0, 0, 255)
+col_bg = (255, 255, 255, 255)
+mode = 0
+svg = 0
+graphout = C:\Users\user\OneDrive\Escritorio\PROYECTOS\FIN DE LO REAL\CORPUS_corpus_1\CORPUS_wordcloud_3\nuage_1.png
+time = 0h 0m 26s
+ira = C:\Users\user\OneDrive\Escritorio\PROYECTOS\FIN DE LO REAL\CORPUS_corpus_1\CORPUS_wordcloud_3\Analyse.ira
