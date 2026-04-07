@@ -1,0 +1,1019 @@
+**** *FUENTE_REUTERS *11-07-2025
+
+
+UN report urges stronger measures to detect AI-driven deepfakes
+By Olivia Le Poidevin
+July 11, 20257:32 PM GMT-3Updated July 11, 2025
+
+
+
+AI slows down some experienced software developers, study finds
+Figurines with computers and smartphones are seen in front of the words "Artificial Intelligence AI" in this illustration created on February 19, 2024. REUTERS/Dado Ruvic/Illustration/File Photo Purchase Licensing Rights, opens new tab
+GENEVA, July 11 (Reuters) - Companies must use advanced tools to detect and stamp out misinformation and deepfake content to help counter growing risks of election interference and financial fraud, the United Nations’ International Telecommunication Union urged in a report on Friday.
+Deepfakes such as AI-generated images and videos, and audio that convincingly impersonates real people, pose mounting risks, the ITU said in the report released at its "AI for Good Summit" in Geneva.
+
+The ITU called for robust standards to combat manipulated multimedia and recommended that content distributors such as social media platforms use digital verification tools to authenticate images and videos before sharing.
+"Trust in social media has dropped significantly because people don't know what's true and what's fake," Bilel Jamoussi, Chief of the Study Groups Department at the ITU's Standardization Bureau, noted. Combatting deepfakes was a top challenge due to Generative AI's ability to fabricate realistic multimedia, he said.
+Leonard Rosenthol of Adobe, a digital editing software leader that has been addressing deepfakes since 2019, underscored the importance of establishing the provenance of digital content to help users assess its trustworthiness.
+
+"We need more of the places where users consume their content to show this information...When you are scrolling through your feeds you want to know: 'can I trust this image, this video...'" Rosenthol said.
+Dr. Farzaneh Badiei, founder of digital governance research firm Digital Medusa, stressed the importance of a global approach to the problem, given there is currently no single international watchdog focusing on detecting manipulated material.
+"If we have patchworks of standards and solutions, then the harmful deepfake can be more effective," she told Reuters.
+The ITU is currently developing standards for watermarking videos - which make up 80% of internet traffic - to embed provenance data such as creator identity and timestamps.
+Tomaz Levak, founder of Switzerland-based Umanitek, urged the private sector to proactively implement safety measures and educate users.
+after investing billions of dollars and years updating it with AI for better personalization and a more conversational tone.
+"AI will only get more powerful, faster or smarter… We'll need to upskill people to make sure that they are not victims of the systems," he said.
+
+**** *FUENTE_REUTERS *18-12-2024
+
+Report on deepfakes: what the Copyright Office found and what comes next in AI regulation
+By Paven Malhotra, Michelle Ybarra and Matan Shacham
+December 18, 202410:55 AM GMT-3Updated December 18, 2024
+
+
+Attorney Analysis from Westlaw Today, a part of Thomson Reuters.
+Illustration shows words "Artificial Intelligence AI\
+Figurines with computers and smartphones are seen in front of the words "Artificial Intelligence AI" in this illustration taken, February 19, 2024. REUTERS/Dado Ruvic/Illustration/File Photo Purchase Licensing Rights, opens new tab
+
+December 18, 2024 - On July 31, 2024, the Copyright Office released part one of its Report on Copyright and Artificial Intelligence, specifically addressing the topic of digital replicas, or "deepfakes" — i.e., AI-generated video, image, or audio recordings that realistically but falsely depict an individual. The report is the result of a broad initiative to explore the intersection of copyright and AI, informed by a series of listening sessions and meetings with stakeholders, as well as more than 10,000 public comments from authors, artists, publishers, lawyers, academics, industry groups, and more.
+Advertisement · Scroll to continue
+
+The report's conclusions are stark: It finds that existing laws, in copyright and other intellectual property areas, are vastly insufficient to redress the harm posed by unauthorized digital replicas, which have the potential to threaten not only those in entertainment and politics, but private individuals, too.
+Jumpstart your morning with the latest legal news delivered straight to your inbox from The Daily Docket newsletter. Sign up here.
+Digital replicas are not new; the technology to produce fake images or recordings has been around for years. But digital replicas of the generative AI era are nothing like their predecessors. They are more sophisticated, leveraging generative AI's powerful technology to create uncannily convincing material.
+Advertisement · Scroll to continue
+
+As the report notes, AI-generated replicas can have positive applications; they can be "accessibility tools for people with disabilities, ... support creative work, or allow individuals to license, and be compensated for, the use of their voice, image, and likeness." Deepfakes, however, can offer "a potent means to perpetrate fraudulent activities with alarming ease and sophistication," the report finds. Moreover, because AI tools are broadly accessible, the potential for wrongdoing increases.
+The examples cited by the Copyright Office are sobering. In 2023, researchers concluded that explicit images — overwhelmingly of women — make up 98% of all deepfake videos online. Scams involving the use of deepfakes have featured fraudsters luring individuals into bogus financial transactions or into buying products that they falsely claimed were endorsed by celebrities. Most alarming, the report warns that digital replicas pose a danger to our political system and news reporting "by making disinformation impossible to discern."
+
+With these emerging problems in mind, the report surveyed existing laws, at both the federal and state level, with the goal of determining whether the necessary tools already existed or if there is a need for new legislation.
+The report found existing federal laws largely inapplicable. For example, it is black-letter law that copyright does not "protect an individual's identity in itself, even when incorporated into a work of authorship." Thus, while it might be a copyright violation to reproduce a copyrighted image or song that contains the copyright owner's likeness or voice, merely replicating someone's image or voice in a deepfake would not implicate copyright protections.
+The Lanham Act "require[s] proof of commercial use and a likelihood of consumer confusion," so it is not useful in cases of harmful but personal and non-commercial deepfakes. Similarly, the Federal Trade Commission Act, which prohibits "unfair methods of competition in or affective commerce, and unfair or deceptive acts or practices in or affective commerce," would be limited to the commercial context.
+
+Meanwhile state laws were deemed uneven and often too narrow. For example, state false light and invasion of privacy laws may be applicable in some instances, but they often require showing that the depiction is "highly offensive to a reasonable person," and thus would not apply to deepfakes that are not offensive but still deceptive.
+State right of publicity laws "may be the most apt state law remedy for unauthorized digital replicas," the report noted. But "the contours of the right differ considerably from state to state," and "some states restrict the right to limited groups of individuals," such as professional performers, soldiers, or deceased people.
+Based on this analysis, the Copyright Office did not mince words as to its conclusion. It stated in blunt terms: "new federal legislation is urgently needed." Looking ahead, the call for action is likely to accelerate congressional focus on an issue that has already sparked numerous pieces of draft legislation.
+Bills concerning digital replicas used for political advertising and sexually explicit images were already introduced when the Copyright Office issued its report. That same day, a bipartisan group of Senators introduced the NO FAKES (The Nurture Originals, Foster Art, and Keep Entertainment Safe) Act. The legislation garnered widespread support from industry groups representing artists, generative AI companies, and entertainment businesses.
+The bill provides individuals with a new federal property right to authorize the use of their voice or visual likeness. Any entity or person who makes available an unauthorized digital replica without the consent of the rights holder is subject to liability. The bill also imposes liability upon digital platforms for displaying unauthorized digital replicas if they fail to remove them when given notice during a safe harbor period. Aimed at creating a national standard, the bill also broadly preempts conflicting state laws that prohibit similar conduct.
+Although passage of the NO FAKES Act or comparable legislation is unlikely until after the new Congress is seated, states have been moving ahead to pass their own legislation. At least a dozen states have now enacted laws that concern deepfakes of sexual images, and more states have bills pending that will likely be passed in the coming year.
+Local prosecutors are also taking action. In August 2024, San Francisco's District Attorney filed a lawsuit against the owners of 16 websites that allow users to create non-consensual nude images of women and girls. Additional suits by state agencies, district attorneys, and private litigants against similar websites and their users are likely.
+
+
+**** *FUENTE_REUTERS *23-04-2025
+
+Musk's X sues to block Minnesota 'deepfake' law over free speech concerns
+By Tom Hals
+April 23, 20256:36 PM GMT-3Updated April 23, 2025
+
+Illustration shows 3D-printed miniature model of Elon Musk and X logo
+A 3D-printed miniature model of Elon Musk and the X logo are seen in this illustration taken January 23, 2025. REUTERS/Dado Ruvic/Illustration/File Photo Purchase Licensing Rights, opens new tab
+WILMINGTON, Delaware, April 23 (Reuters) - Elon Musk's social media platform X sued Minnesota on Wednesday over a state law that bans people from using AI-generated "deepfakes" to influence an election, which the company said violated protections of free speech.
+The law replaces social media platforms' judgment about the content with the judgment of the state and threatens criminal liability if the platforms get it wrong, according to the lawsuit that was filed in Minnesota federal court.
+
+Tu startup tiene el poder de cambiar el futuro. En BStartup de Banco Sabadell, acompañamos tu visión, apoyando tu crecimiento con soluciones financieras especializadas, inversión en equity y un equipo especializado dedicado a ayudarte a crecer. #LargaVidaATuStartup
+
+"This system will inevitably result in the censorship of wide swaths of valuable political speech and commentary," X said in its complaint. Musk has described himself as a free speech absolutist and he did away with Twitter's content moderation policy when he bought the company in 2022 and renamed it X.
+Minnesota Attorney General Keith Ellison, the named defendant, did not immediately respond to a request for comment.
+Minnesota's law bans the use of deepfakes – videos, pictures or audio clips made with AI to look real – to influence an election. At least 22 states have enacted some form of prohibition on the use of deepfakes in elections, according to data compiled by Public Citizen, which says that AI can be used to manipulate voters.
+Report This Ad
+
+
+X asked the federal judge to declare the law violated the First Amendment of the U.S. Constitution, Minnesota's constitution and that it was impermissibly vague. It also wants the judge to find the law is precluded by what is known as Section 230, a federal law that protects social media companies from being held liable for content posted by users. The company wants a permanent injunction preventing the law from being enforced.
+The Minnesota law has already been challenged on similar grounds by a Republican state lawmaker Mary Franson and social media influencer Christopher Kohls. In January, U.S. District Judge Laura Provinzino rejected their bid for a preliminary injunction to block the law, which they appealed. Provinzino's ruling did not address the merits of the lawsuit.
+
+
+
+
+**** *FUENTE_REUTERS *26-09-2025
+
+
+South Korea to criminalise watching or possessing sexually explicit deepfakes
+By Hyunsu Yim
+September 26, 20247:47 AM GMT-3Updated September 26, 2024
+
+
+South Korean police have handled over 800 deepfake sex crime cases this year
+Global efforts to combat deepfakes include U.S. legislation and social media actions
+
+SEOUL, Sept 26 (Reuters) - South Korean lawmakers on Thursday passed a bill that criminalises possessing or watching sexually explicit deepfake images and videos, with penalties set to include prison terms and fines.
+There has been an outcry in South Korea over Telegram group chats where sexually explicit and illegal deepfakes were created and widely shared, prompting calls for tougher punishment.
+The Reuters Daily Briefing newsletter provides all the news you need to start your day. Sign up here.
+Anyone purchasing, saving or watching such material could face up to three years in jail or be fined up to 30 million won ($22,600), according to the bill.
+
+Currently, making sexually explicit deepfakes with the intention of distributing them is punishable by five years in prison or a fine of 50 million won under the Sexual Violence Prevention and Victims Protection Act.
+When the new law takes effect, the maximum sentence for such crimes will also increase to seven years regardless of the intention.
+The bill will now need the approval of President Yoon Suk Yeol in order to be enacted.
+South Korean police have so far handled more than 800 deepfake sex crime cases this year, the Yonhap news agency reported on Thursday.
+That compares with 156 for all of 2021, when data was first collated. Most victims and perpetrators are teenagers, police say.
+
+Earlier this month, police launched an investigation into Telegram that will look at whether the encrypted messaging app has been complicit in the distribution of sexually explicit deepfake content.
+Countries around the world are grappling with how to respond to the proliferation of deepfake material.
+The U.S. congress is debating several pieces of legislation including one that would allow victims of nonconsensual sexual deepfakes to sue, and one that would criminalise the publication of such imagery and make tech companies remove it.
+Earlier this year, social media platform X blocked users from searching for Taylor Swift after fake sexually explicit images of the pop singer proliferated on social media.
+($1 = 1,328.9000 won)
+00:08
+AI demand for chips drives Samsung's expected Q3 profit surge
+
+The video player is currently playing an ad.
+Reporting by Hyunsu Yim; Editing by Hugh Lawson
+
+
+**** *FUENTE_NYT *29-06-2025
+
+https://www.nytimes.com/interactive/2025/06/29/business/ai-video-deepfake-google-veo-3-quiz.html
+
+
+A.I. Videos Have Never Been Better. Can You Tell What’s Real?
+By Stuart A. Thompson June 29, 2025
+Artificial intelligence tools have taken another leap forward. A new wave of generators can create lifelike video along with realistic audio, including dialogue.
+These tools, including Google’s Veo 3, are producing viral videos, satirical commentary and even realistic fakes of disputed events like riots and elections.
+Below is a collection of real videos alongside A.I.-generated fakes, which were created by writing basic prompts to guide what the tools come up with.
+Your job: tell the difference. (Most of these videos have dialogue. Unmute the videos to hear what’s said.)
+
+None of the fake videos in this quiz took more than a few minutes to create. We wrote a pithy prompt to capture the main details we wanted to see and usually included a rough script for what the characters should say. The A.I. software handled the rest: the people, clothing, sound effects, lighting, voices and more.
+At times, the A.I. systems spit out unusable videos. There were sometimes obvious signs that the video was not real: in earlier versions of the makeup tutorial, for example, the woman would sometimes apply blush that seemed to glow on her face. By repeating the request a few times, or adding more details to the prompt, we were usually able to solve those issues.
+The tools we used also struggled with text that appeared on screen. It would sometimes produce correct words, like in a version of our news broadcast that contained the words “Financial Update.” But letters were often garbled or imperfect, suggesting there are still a few ways to spot an A.I. fake — for now.
+
+
+**** *FUENTE_NYT *02-10-2025
+
+https://www.nytimes.com/2025/10/02/technology/openai-sora-video-app.html
+
+
+OpenAI’s New Video App Is Jaw-Dropping (for Better and Worse)
+
+Listen to this article · 7:48 min Learn more
+Mike IsaacEli Tan
+By Mike Isaac and Eli Tan
+Reporting from San Francisco
+Oct. 2, 2025
+Updated 3:21 p.m. ET
+This week, we — the two authors of this article — spent hours scrolling through a feed of short-form videos that featured ourselves in different scenarios.
+In one hyper-realistic nine-second video, we were shown skydiving (and grinning) with pizzas as parachutes.
+Video
+In another, Eli hit a game-winning home run in a baseball stadium full of robots.
+Video
+In yet another, Mike was caught in a “Matrix”-style duel against Ronald McDonald, using cheeseburgers as weapons.
+Video
+“I’m genuinely blown away,” Eli messaged Mike about the cheeseburger video, before liking the content. Mike kept sending videos — which included him ballroom dancing with his dog and sitting on a throne of rats — to other New York Times colleagues (all of whom found the clips slightly disturbing).
+The app we used was not TikTok, Instagram Reels or YouTube Shorts, the current leaders of short-form video. It was Sora, a smartphone app made by OpenAI that lets people create such videos entirely from artificial intelligence. Sora’s underlying technology debuted last year, but its latest version — which is faster and more powerful and can incorporate your likeness if you upload images of your face — was released on an invitation-only basis this week.
+After we spent less than a day with the app, what became clear to us was that Sora had gone beyond being an A.I.-video generation app. Instead, it is, in effect, a social network in disguise; a clone of TikTok down to its user interface, algorithmic video suggestions and ability to follow and interact with friends. The powerful A.I. model that Sora is built on makes it simpler to produce clips, giving people an almost unlimited ability to generate as many A.I. videos as they want.
+It was also disconcerting.
+Almost instantly, Sora’s early-access users were spinning up videos made with copyrighted material plucked from pop culture. (We saw more “Rick and Morty” and Pikachu videos than we would have liked.) And when Mike posted one Sora video to his personal Instagram page, a half-dozen friends asked if it was him in the video, raising questions about whether we might lose touch with reality.
+Worse still, being able to quickly and easily generate video likenesses of people could pour gasoline on disinformation, creating clips of fake events that look so real that they might spur people into real-world action. While some of this was already possible with other A.I. video generators, Sora could turbocharge it.
+It is early days, and there is no guarantee Sora will have legs. But OpenAI appears to have created the type of product that companies like Meta and X have sought to build: a way to bring A.I. to the masses that people can share, enticing one another to create posts and regularly use their apps and services.
+The race to create similar apps is heating up. Last week, Meta released a social media feed in its dedicated A.I. app called Vibes, which uses an A.I. video generator from the start-up Midjourney. Google hosts Veo, its version of a similar product.
+With the social internet moving people from sharing text messages to posting photos and now to watching billions of hours of video, tech executives say A.I. video tools will be formative to the next generation of social media.
+“We felt that the best way to bring this technology to the masses is through something that is somewhat social,” Rohan Sahai, OpenAI’s product lead for Sora, said in an interview. “When you have such drastically shifting technology — a new form factor, even — our goal and philosophy as a company is to get it out there.”
+(The New York Times has sued OpenAI and Microsoft, claiming copyright infringement of news content related to A.I. systems. The two companies have denied those claims.)
+The new Sora looks just like TikTok and has the same “For You” name for its social feed. Users can scan their faces to appear as avatars in the videos, or use images of other people, such as OpenAI’s chief executive, Sam Altman. OpenAI calls this feature “Cameos,” the same name as the popular app where people buy custom videos from their favorite celebrities.
+Some safety experts said Sora and the Cameos feature specifically could lead to new kinds of misinformation and scams. One Sora video that went viral is of an artificial Mr. Altman stealing a graphics processing unit from a department store, as if recorded by a security camera.
+“It makes it really easy to create a believable deepfake in a way that we haven’t quite seen yet,” said Rachel Tobac, the chief executive of SocialProof Security, a cybersecurity start-up.
+Sora has restrictions on some sexual and copyrighted content. You can make a video with the characters of the television show “South Park,” for instance, but not Batman or Superman figures. Rights holders must opt out of their work’s being used in Sora through a copyright disputes form on a case-by-case basis. Public figures may choose to grant permission for Sora to use their likenesses.
+“We’ll work with rights holders to block characters from Sora at their request and respond to takedown requests,” Varun Shetty, OpenAI’s head of media partnerships, said in a statement.
+As Sora clips began circulating on X, TikTok and other social platforms this week, they were received with surprise, delight and disgust. One fear is that Sora will add to what has become known as “slop,” a disparaging term for the fast-growing number of nonsensical A.I.-generated videos flooding social networks.
+In July, an A.I. clip of a baby piloting a 747 was one of the most watched videos on YouTube. In recent weeks, an A.I.-generated video of an elderly woman holding a boulder and crashing through a glass bridge over a canyon went viral on Facebook and X, spawning dozens of look-alike clips.
+Mr. Sahai, the OpenAI product leader, said that just as other social networks had democratized tools for creators, a significant amount of content, across the quality spectrum, would be produced with Sora, but that the highest quality work would rise to the top. He noted that some jokes shared between friends might seem like nonsense to outsiders, but be fun and relevant to small groups.
+“One man’s slop is another man’s gold,” Mr. Sahai said.
+Hollywood has spent the past 36 hours concerned over how Sora could make it simple for users to rip off likenesses with no compensation. A day after the app’s release, executives at the talent agency WME sent a memo to agents saying they would fight to defend their clients’ work, according to a copy viewed by The Times.
+“There is a strong need for real protections for artists and creatives as they encounter A.I. models using their intellectual property, as well as their name, image and likeness,” the memo said. WME said it had told OpenAI that all of its clients were opting out of having their likenesses or intellectual property included in Sora’s videos.
+Still, Sora’s broad appeal was immediately clear. Neither of us knows the first thing about creating videos, yet all it took was a kernel of an idea, two or three minutes of processing time and a boatload of computing power to spit out a video of Mike arm-wrestling Eli for the title of “best tech reporter.” (Eli won.)
+Not everyone was charmed. After Mike showed his partner an eerily realistic Sora video of himself playing the psychopathic character Anton Chigurh from the 2007 film adaptation of the book “No Country for Old Men,” she had a simple request.
+“Please never, ever show me this kind of video again,” she said.
+Nicole Sperling contributed reporting from Los Angeles.
+Mike Isaac is The Times’s Silicon Valley correspondent, based in San Francisco. He covers the world’s most consequential tech companies, and how they shape culture both online and offline.
+Eli Tan covers the technology industry for The Times from San Francisco.
+See more on: OpenAI, TikTok, X (Formerly Twitter), Sam Altman
+
+
+
+**** *FUENTE_BBC *19-08-2025
+
+
+Elon Musk's AI accused of making explicit AI Taylor Swift videos
+8 August 2025
+
+Imran Rahman-JonesTechnology reporter
+Getty Images Taylor Swift smiling wearing a black beanie hat and black jacket.Getty Images
+Elon Musk's AI video generator has been accused of making "a deliberate choice" to create sexually explicit clips of Taylor Swift without prompting, says an expert in online abuse.
+
+"This is not misogyny by accident, it is by design," said Clare McGlynn, a law professor who has helped draft a law which would make pornographic deepfakes illegal.
+
+According to a report by The Verge, Grok Imagine's new "spicy" mode "didn't hesitate to spit out fully uncensored topless videos" of the pop star without being asked to make explicit content.
+
+The report also said proper age verification methods - which became law in July - were not in place.
+
+XAI, the company behind Grok, has been approached for comment.
+
+
+XAI's own acceptable use policy prohibits "depicting likenesses of persons in a pornographic manner".
+
+"That this content is produced without prompting demonstrates the misogynistic bias of much AI technology," said Prof McGlynn of Durham University.
+
+"Platforms like X could have prevented this if they had chosen to, but they have made a deliberate choice not to," she added.
+
+This is not the first time Taylor Swift's image has been used in this way.
+
+Sexually explicit deepfakes using her face went viral and were viewed millions of times on X and Telegram in January 2024.
+
+Deepfakes are computer-generated images which replace the face of one person with another.
+
+'Completely uncensored, completely exposed'
+In testing the guardrails of Grok Imagine, The Verge news writer Jess Weatherbed entered the prompt: "Taylor Swift celebrating Coachella with the boys".
+
+Grok generated still images of Swift wearing a dress with a group of men behind her.
+
+This could then be animated into short video clips under four different settings: "normal", "fun", "custom" or "spicy".
+
+"She ripped [the dress] off immediately, had nothing but a tasselled thong underneath, and started dancing, completely uncensored, completely exposed," Ms Weatherbed told BBC News.
+
+She added: "It was shocking how fast I was just met with it - I in no way asked it to remove her clothing, all I did was select the 'spicy' option."
+
+Gizmodo reported similarly explicit results of famous women, though some searches also returned blurred videos or with a "video moderated" message.
+
+The BBC has been unable to independently verify the results of the AI video generations.
+
+Ms Weatherbed said she signed up to the paid version of Grok Imagine, which cost £30, using a brand new Apple account.
+
+Grok asked for her date of birth but there was no other age verification in place, she said.
+
+Under new UK laws which entered into force at the end of July, platforms which show explicit images must verify users' ages using methods which are "technically accurate, robust, reliable and fair".
+
+"Sites and apps that include Generative AI tools that can generate pornographic material are regulated under the Act," the media regulator Ofcom told BBC News.
+
+"We are aware of the increasing and fast-developing risk GenAI tools may pose in the online space, especially to children, and we are working to ensure platforms put appropriate safeguards in place to mitigate these risks," it said in a statement.
+
+
+New UK laws
+Currently, generating pornographic deepfakes is illegal when used in revenge porn or depicts children.
+
+Prof McGlynn helped draft an amendment to the law which would make generating or requesting all non-consensual pornographic deepfakes illegal.
+
+The government has committed to making this amendment law, but it is yet to come into force.
+
+"Every woman should have the right to choose who owns intimate images of her," said Baroness Owen, who proposed the amendment in the House of Lords.
+
+"It is essential that these models are not used in such a way that violates a woman's right to consent whether she be a celebrity or not," Lady Owen continued in a statement given to BBC News.
+
+"This case is a clear example of why the Government must not delay any further in its implementation of the Lords amendments," she added.
+
+A Ministry of Justice spokesperson said: "Sexually explicit deepfakes created without consent are degrading and harmful.
+
+"We refuse to tolerate the violence against women and girls that stains our society which is why we have passed legislation to ban their creation as quickly as possible."
+
+When pornographic deepfakes using Taylor Swift's face went viral in 2024, X temporarily blocked searches for her name on the platform.
+
+At the time, X said it was "actively removing" the images and taking "appropriate actions" against the accounts involved in spreading them.
+
+Ms Weatherbed said the team at The Verge chose Taylor Swift to test the Grok Imagine feature because of this incident.
+
+"We assumed - wrongly now - that if they had put any kind of safeguards in place to prevent them from emulating the likeness of celebrities, that she would be first on the list, given the issues that they've had," she said.
+
+Taylor Swift's representatives have been contacted for comment.
+
+
+https://www.bbc.com/news/articles/ced5wvn48q5o
+
+
+**** *FUENTE_BBC *19-08-2025
+
+Scammers using AI to lure shoppers to fake businesses
+
+Alice Cullinane andRebecca WoodsBirmingham
+C'est La Vie A man and a woman are smiling and standing in front of a counter filled with jewellery C'est La Vie
+The images of "Patrick and Eileen" are among those AI-generated, experts say
+Unscrupulous foreign firms are using AI-generated images and false back stories to pose as family-run UK businesses to lure in shoppers.
+
+Customers say they feel "completely ripped off" after believing they were buying from independent boutiques in England but were delivered cheap clothes and jewellery, mass-shipped from warehouses in east Asia.
+
+Among the websites is C'est La Vie, a shop purporting to be run by couple Eileen and Patrick for 29 years and based in Birmingham's historic Jewellery Quarter - but with a returns address in China.
+
+Consumer guide Which? said the growing use of AI tools was making it possible for fraudsters to mislead the public on an "unprecedented" scale.
+
+
+Another website appearing to use AI-generated images is Mabel & Daisy, a seemingly quintessential, mother and daughter-owned clothing firm, which claims to be based in Bristol but has an address in Hong Kong.
+
+More than 500 one-star reviews for the companies appear on review platform Trustpilot, with customers complaining of paying high prices for cheaply made goods and being charged extortionate return fees.
+
+Shoppers told the BBC they were targeted by ads as they scrolled on Facebook.
+
+The Advertising Standards Agency (ASA), which recently banned ads by Marble Muse, a Chinese clothing company pretending to be based in London, said social media platforms also had their part to play in tackling the issue.
+
+The BBC has contacted Facebook owner Meta for comment.
+
+A grieving widow and 80%-off sale
+C'est La Vie A woman with grey/white bobbed hair sits at a wooden desk in a jewellery shop, wearing a blue shirt and tending to some jewellery under a light. C'est La Vie
+"Eileen" told customers she was closing down her shop with a huge sale
+
+With their warm smiles, branded shirts and cabinets full of jewellery behind them, Eileen and Patrick are the perfect image of a successful husband and wife team.
+
+Except, they are literally too perfect, according to a professor of Artificial Intelligence at the University of Birmingham, Mark Lee.
+
+"Previously there were obvious clues, for instance AI had difficulty generating realistic hands with plausible finger placement," he said after viewing the website.
+
+"This seems well done but the images look a little bit too perfect and staged to be real."
+
+'Lumps of resin'
+Recent adverts for C'est La Vie, which claims to be based in Colmore Row, Birmingham, stated that the couple had befallen a tragedy - Eileen's "beloved husband" Patrick had died and she was shutting the business down with an 80%-off clearance sale.
+
+"I've battled to keep our handmade jewellery boutique alive but grief has drained my strength and I must close our doors," it said.
+
+But customers lured in by the sob story posted furious reviews on Trustpilot about receiving "lumps of resin", "plastic junk" and "cheap metal rubbish".
+
+"If I could give 0 stars, I would - complete scam, no such company in Birmingham, can't believe I fell for it," one said.
+
+
+C'est La Vie Eight images of jewellery, from gold and pearl vintage earrings, a green opal ring and a vintage ring with colourful crystalsC'est La Vie
+The website claimed huge discounts were available on all items
+Sunny Pal, who runs Astella Jewellery in Birmingham, said that the scams damaged the reputation of the city's Jewellery Quarter and tarnished the hard work of local businesses.
+
+"The lying ruins the distinguishing factor between different businesses. It takes the credibility away from family-run businesses that have been here for so long," he said.
+
+Within hours of the BBC's first approach to C'est La Vie, its website stated all its products had sold out, the business was closed with a message from Eileen that said: "We're carefully packing and shipping the final orders that were placed."
+
+The name of the business on its website then temporarily changed to "Alice and Fred" before returning to its C'est La Vie branding.
+
+The company did not reply to a request for comment.
+
+
+Mabel&Daisy A screengrab of a clothing website called Mabel & Daisy. Mabel&Daisy
+Customers said Mabel & Daisy looked professional and authentic
+Justyne Gough spent £40 on a pink floral dress from Mabel & Daisy, a business that claims to have created "timeless clothing" in Bristol since 2022.
+
+She realised it was a "complete scam" when the garment arrived weeks later looking nothing like the elegant dress on the website and made of an "awful material".
+
+"The website looked lovely, professional and authentic but I had to email a few times to say the items hadn't arrived even though the money had been taken straight away," she said.
+
+
+Justyne Gough A pink short sleeved dress with floral patterns is laid out on top of a white cloth background. Justyne Gough
+Justyne Gough's cheaply made dress cost £40
+When she tried to return it, Ms Gough was told it would cost another £20. She eventually managed to get a refund of £20.
+
+Emma, from Birmingham, said she tried to send a £50 jacket back to Mabel & Daisy which was far too big - but was told to keep it and, for an extra £10, she could be sent a smaller size.
+
+"There was no way I wanted to give them any more money - I realised it wasn't based in Bristol when a load of Chinese symbols popped up when my initial transaction went through," she said.
+
+Mabel & Daisy did not respond to our questions.
+
+
+'Poor-quality tat'
+Last month, in response to a complaint from BBC's Watchdog, the ASA banned ads for a so-called "British" clothing firm that used images of roses, cobbled streets and the union jack when it was shipping goods from a warehouse in Asia.
+
+The regulator said it was continuing to take action on misleading ads.
+
+But their spokesperson added: "Other regulators and the platforms on which these ads appear all have a part to play in tackling this issue."
+
+Sue Davies, from Which?, said trading standards teams were "severely under-resourced and not well-equipped" to deal with the websites, meaning many could be going uninvestigated.
+
+"Although the onus should not fall on consumers, there are steps they can take to limit the risk of ending up with poor-quality tat," she said.
+
+Shoppers should check reviews online to see how other people have found the company's products and customer service.
+
+It is also worth checking if the company is based in the UK - terms and conditions pages can reveal the location of businesses.
+
+Identifiable locations
+Prof Mark Lee said some things to look for were "images of the person in different settings, with different backgrounds and the inclusion of real, identifiable locations".
+
+But he warned: "AI is becoming better every day and soon the challenge might not be to prove whether the site is AI-generated but whether there's actually a real human involved at all."
+
+
+**** *FUENTE_BBC *19-08-2025
+
+Man sent friends nude deepfakes of woman from high school
+19 August 2025
+
+Spindrift A smiling young man who has sandy hair and a beard, wearing a black suit jacket, a light blue shirt and a brown and blue patterned tie. He is outdoors, with trees and a tall building blurred in the background.Spindrift
+Callum Brooks admitted creating deepfake naked images of a woman he knew in high school
+A man has admitted creating deepfake naked images of a woman he knew in high school and sending them to his friends.
+
+Callum Brooks, 25, used artificial intelligence (AI) to alter two pictures the woman had posted on social media on 24 June 2022.
+
+Glasgow Sheriff Court heard both depicted her in a "state of undress", without her knowledge or consent.
+
+Brooks claimed there was "no sexual element" to his actions, which was accepted by the Crown, and was fined £335.
+
+
+The court heard that the woman was "immediately embarrassed and humiliated" when she found out about his crime, which is thought to be among the first of its kind to reach a Scottish court.
+
+Brooks, of Easterhouse, Glasgow, admitted the charge of disclosing a photograph of the woman in an intimate situation without her consent.
+
+Deepfakes are digitally manipulated images or videos which replace one person's likeness convincingly with another.
+
+Although the sharing of such images without a person's consent is already a criminal offence, the UK government promised to create a separate offence for the creation of sexually explicit deepfakes earlier this year.
+
+First Minister John Swinney said the Scottish government was "carefully considering" whether the specific legislation was required and would work with Westminster on whether to extend any new laws to Scotland.
+
+
+**** *FUENTE_BBC *19-09-2025
+
+Friend stole my face for deepfake nudes – now I want tougher laws
+
+
+Julie-Anne Barnes andLaura GoodwinBBC Scotland
+Getty Images An anonymous image of a woman looking at an image on her phone - she has dark hair in a pony tail but we cannot see her face behind the phone.Getty Images
+Sophie was alerted to deepfake images bearing her face by a friend
+The victim of one of the first deepfake image prosecutions in Scotland says she has been left feeling "humiliated and betrayed" after the man who doctored her likeness was given a fine.
+
+Callum Brooks, 25, from Glasgow, became one of the first to be convicted of using artificial intelligence (AI) technology to create and share deepfake nude images after admitting the offence in court last month. He was fined £335.
+
+Sophie (not her real name) told BBC Scotland News that crimes using AI should have their own legislation and that penalties should be higher.
+
+The Scottish government said it was considering the need for a separate law.
+
+
+What is a deepfake?
+Deepfakes are digitally manipulated images or videos which replace one person's likeness convincingly with another.
+
+Sophie said she was horrified when she realised that her face had been put on two naked images and reported Brooks - someone she knew from high school - to the police.
+
+She said she felt "small" and "vulnerable" after a friend alerted her to the picture.
+
+"It was a big feeling of betrayal," she said. "It disgusts me that you could do that to someone you would call a friend.
+
+"It played on my mind for a couple of days until I admitted to my mum I felt embarrassed. I worried if these images might be on a website. If you googled my name – would it come up?"
+
+She was angry that someone had "kidnapped" her image from a social media post.
+
+"The photo of me fully clothed, had been altered so it was completely naked. I also had a fear, if he (my friend) had been sent this, who else had it? Has it been uploaded online?"
+
+Spindrift A smiling young man who has sandy hair and a beard, wearing a black suit jacket, a light blue shirt and a brown and blue patterned tie. He is outdoors, with trees and a tall building blurred in the background.Spindrift
+Callum Brooks admitted creating deepfake naked images of a woman he knew in high school
+
+Although the sharing of such images without a person's consent is already a criminal offence, the UK government promised to create a separate offence for the creation of sexually explicit deepfakes last year.
+
+First Minister John Swinney said the Scottish government was "carefully considering" whether the specific legislation was required and would work with Westminster on whether to extend any new laws to Scotland.
+
+Brooks claimed there was no sexual element to his actions, which the Crown accepted.
+
+Sophie feels strongly that separate legislation would better help victims like her.
+
+"I would like to see it being treated with more severity. I feel new legislation should be made around AI-specific crimes."
+
+Dr Lynsay Shepherd, a lady with light brown mid-length hair and black-rimmed glasses stands in a dark office filled with computer screens. She wears a black jacket and top.
+Cybersecurity expert Dr Lynsay Shepherd said a collective effort was needed to address the issue of deepfakes
+
+Experts at Abertay University are already working on better ways to combat deepfake images.
+
+Next month a new PhD begins which will look to better to identify deepfakes – increasing awareness for both police and the public.
+
+Dr Lynsay Shepherd is an expert in cybersecurity at Abertay and said the move was "hugely important".
+
+She added: "As technology advances, it's tricky to try and stay one step ahead.
+
+"With these nudification applications there's not much you can do in defending yourself because it could be any image that's been uploaded.
+
+"These applications have various different features of what you want to add to the image. It's very depressing and very, very easily done."
+
+She added that there needs to be a collective effort to address deepfake issues in the longer term.
+
+"Law enforcement can't tackle this by themselves. Academia can't tackle this on its own. It's quite vital we're all working together along with industry stakeholders as well," she said.
+
+A spokesman for the Scottish government said: "The offence of 'non-consensual sharing of intimate images' introduced in 2016 criminalises the sharing of images, including deepfake images, that either show or appear to show a person in an intimate situation without their consent.
+
+"The Scottish government keeps the law under continual review and will consider through consultation whether further changes are required to tackle the creation of deepfake sexual images."
+
+If you have been affected by any of the issues in this story, information and support is available via the BBC Action Line.
+
+
+
+**** *FUENTE_BBC *23-07-2025
+
+
+AI deepfake porn humiliated me, says Mordaunt
+23 July 2025
+
+
+Watch: "It was deeply humiliating and violent", says Penny Mordaunt on her face being used in AI porn.
+Former Conservative cabinet minister Penny Mordaunt has spoken about how shaken she was to learn she was the victim of "deliberately humiliating and violent" deepfake porn when serving as an MP.
+
+Speaking to BBC Newsnight, the former leader of the House of Commons said that her face had been used in AI-generated deepfake porn, adding it happened to "a number of parliamentarians".
+
+Deepfakes are images or videos that have been digitally altered using artificial intelligence (AI) to replace the face of one person with another.
+
+Mordaunt was being interviewed on the programme about advanced age checks that websites with pornographic material must implement before Friday.
+
+
+But speaking on the issue of deepfake porn, she said: "The people behind this... don't realise the consequences in the real world when they do something like that... It plays across into people taking actual real world actions against ourselves."
+
+Mordaunt became aware that her face had been used in deepfake porn after a Channel 4 documentary by Cathy Newman last year revealed that Mordaunt, Tory colleague Dame Priti Patel, Labour's Angela Rayner and several other senior female politicians were victims of the practice.
+
+At the time, Newman revealed she was also a victim. "It was violating... it was kind of me and not me," she said, explaining the video displayed her face but not her hair.
+
+Earlier this year, the government unveiled plans to make the creation or distribution of sexually explicit deepfakes a criminal offence, following a surge in their proliferation over recent years.
+
+"The worry for me is actually more with children," Mordaunt told Newsnight's Victoria Derbyshire.
+
+"We wouldn't want people to see these things on the walk to school. If they did, they'd be in therapy. But we have seemed to be perfectly happy for them to see it online."
+
+Mordaunt also said she was "with the Australians" on their decision to ban social media platforms for under-16s.
+
+She added that the government needed "to have some courage" in tackling the issue with people like Elon Musk, the owner of X, formerly Twitter.
+
+"[Musk] is taking the human race to Mars. I'm sure he can figure out age verification," she said.
+
+
+PA Media A newly-crowned King Charles III stands holding an orb and sceptre, while Penny Mordaunt, wearing a blue dress and hat, stands in front of him holding a sword with both hands. The sword is held upright in front of her face.  PA Media
+Penny Mordaunt played a central role in the coronation ceremony of the King
+Mordaunt has held senior positions within previous Conservative governments, including briefly serving as the UK's first female defence secretary.
+
+She competed in the 2022 Conservative leadership election, before serving as the leader of the House of Commons and lord president of the Council.
+
+That gave her a prominent role in the coronation ceremony of King Charles III, during which she held a ceremonial sword for more than an hour.
+
+Mordaunt served as the MP for the Portsmouth North constituency for 14 years, before becoming one of several high-profile Conservative figures to lose her seat in last year's general election.
+
+
+
+
+**** *FUENTE_BBC *22-07-2025
+
+Deepfake deception: Indian woman's identity stolen for erotic AI content
+22 July 2025
+
+Geeta PandeyBBC News, Delhi
+Babydoll Archi Babydoll ArchiBabydoll Archi
+Babydoll Archi's Instagram account had 1.4 million followers
+It took just a few days for Indian Instagram sensation Babydoll Archi to double her following to 1.4 million, thanks to a couple of viral social media moments.
+
+One was a video that showed her in a red sari, dancing seductively to Dame Un Grr – a Romanian song. And a photo posted on the platform showed her posing with American adult film star Kendra Lust.
+
+Suddenly everyone wanted to know about her - and the name Babydoll Archi trended in Google search and spawned countless memes and fan pages. But there was one issue about to emerge – there was no real woman behind the online sensation.
+
+The Instagram account was fake, although the face it used had uncanny likeness to a real woman - a homemaker in Dibrugarh city in Assam, whom we'll call Sanchi.
+
+The truth unravelled after her brother lodged a police complaint. Pratim Bora, Sanchi's ex-boyfriend, was arrested.
+
+Senior police officer Sizal Agarwal who's heading the investigation told the BBC that Sanchi and Bora had a falling out and the AI likeness he created was to exact "pure revenge" on her.
+
+Bora - a mechanical engineer and a self-taught artificial intelligence (AI) enthusiast - used private photos of Sanchi to create a fake profile, Ms Agarwal said.
+
+Bora is in custody and has not made any statements yet. The BBC has reached out to his family and will update the article when they speak.
+
+Babydoll Archi was created in 2020 and the first uploads were made in May 2021. The initial photos were her real pictures that had been morphed, Ms Agarwal said.
+
+"As time passed, Bora used tools such as ChatGPT and Dzine to create an AI version. He then populated the handle with deepfake photos and videos."
+
+The account started picking up likes from last year but it started gaining traction from April this year, she added.
+
+Sanchi is not on social media and she found out about the account only once the mainstream media began profiling Babydoll Archi, describing her as "an influencer". Reports speculated that she could be joining the US porn industry - possibly a first for someone from the north-eastern state of Assam.
+
+The short two-paragraph complaint to the police submitted by Sanchi's family on the night of 11 July came with printouts of some photos and videos as evidence.
+
+Ms Agarwal says it did not name anyone because they had no idea who could be behind it.
+
+
+Reuters A message reading "AI artificial intelligence", a keyboard, and robot hands are seen in this illustration taken January 27, 2025. REUTERS/Dado Ruvic/Illustration/File PhotoReuters
+Illustration showing a message reading "AI artificial intelligence" alongside a keyboard and robotic hands
+Babydoll Archi was not an unfamiliar name for the police. Ms Agarwal says they had also seen media reports and comments speculating that she was AI generated, but there had been no suggestion that it was based on a real person.
+
+Once they received the complaint, police wrote to Instagram asking for the details of the account's creator.
+
+"Once we received information from Instagram, we asked Sanchi if she knew any Pratim Bora. Once she confirmed, we traced his address in the neighbouring district of Tinsukia. We arrested him on the evening of 12 July."
+
+Ms Agarwal says the police have "seized his laptop, mobile phones and hard drives and his bank documents since he had monetised the account".
+
+"The account had 3,000 subscriptions on linktree and we believe he had earned 1m rupees from it. We believe he made 300,000 rupees in just five days before his arrest," she added.
+
+Ms Agarwal says Sanchi is "extremely distraught - but now she and her family are receiving counselling and they are doing better".
+
+There really is no way to prevent something like this from happening, "but had we acted earlier, we could have prevented it from gaining so much traction", Ms Agarwal said.
+
+"But Sanchi had no idea because she has no social media presence. Her family too had been blocked out from this account. They became aware only once it went viral," she added.
+
+Meta has not responded to the BBC queries on the case, but it generally does not allow posting of nudity or sexual content. And last month, CBS reported that it removed a number of ads promoting AI tools used to create sexually explicit deepfakes using images of real people.
+
+
+Getty Images Representative image: Silhouette of a woman during sunset or sunriseGetty Images
+Women's photos and videos are often circulated as revenge
+The Instagram account of Babydoll Archi, which had 282 posts, is no longer available to public - although social media is replete with her photos and videos and one Instagram account seems to have all of them. The BBC has asked Meta what they are planning to do about it.
+
+Meghna Bal, AI expert and lawyer, says what happened to Sanchi "is horrible but almost impossible to prevent".
+
+She can go to the court and seek the right to be forgotten, and a court can order the press reports that named her to be taken down but it's hard to scrub all the trace from the internet.
+
+What happened to Sanchi, she says, is what's always been happening to women, where their photos and videos are circulated as revenge.
+
+"It's now a lot easier to do because of AI, but such incidents are still not as common as we expect - or they could be under-reported because of stigma or people being targeted may not even know about it as in the present case," Ms Bal says. And people watching it had no incentive to report it to the social media platform or cybercrime portal, she adds.
+
+In their complaint against Mr Bora, police have invoked sections of law that deal with sexual harassment, distribution of obscene material, defamation, forgery to harm reputation, cheating by personification and cybercrime. If found guilty, Mr Bora could get up to 10 years in prison.
+
+The case which has also led to outrage on social media in recent days has seen some seeking tougher laws to deal with such cases.
+
+Ms Bal believes there are enough laws to take care of such cases, but whether there's scope for new laws to deal with generative AI companies has to be looked at.
+
+"But we also have to remember that deepfakes are not necessarily bad and laws have to be carefully crafted because they can be weaponised to chill free speech."
+
+
+
+**** *FUENTE_WSJ *12-10-2025
+
+
+Our Faces No Longer Belong to Us
+Your likeness is now fair game for AI. Anyone is a click away from creating a digital version of you.
+Nicole Nguyen
+By 
+Nicole Nguyen
+Oct. 12, 2025 9:00 am ET
+
+AI video apps, such as Sora, can clone your likeness and generate a clip of you doing whatever you can dream up.
+A family member sent me an image of a baby dressed in an elf outfit. My baby. It was adorable—and unnerving.
+My cousin took a photo from our group chat and uploaded it to Meta AI. While his heart was in the right place, my mind was spinning. What could Meta do with my son’s face? The privacy policy of Meta Platforms says the company can use these images to “improve AIs and related technology.”
+In the age of AI, I can’t control where my—or my son’s—face ends up. Our likenesses are no longer our own.
+Tools such as OpenAI’s new Sora video app, Google’s Nano Banana image generator and even Apple’s Image Playground can take a genuine video or photo and spin up a virtual knockoff in minutes. While there are safeguards, anyone from a well-meaning loved one to a malicious scam artist can create fake versions of you that would have been inconceivable a few years ago.
+After trying several of the tools, I’ve learned that some models are quite good and getting better—enough to fool people into thinking they’re real. As you’ll read below, that can have devastating effects.
+The AI puppet machines
+I recently co-hosted a birthday party with a friend and used Gemini for the invitation. My vision: our younger selves blowing out candles together. I gave Gemini a couple of childhood photos (with my friend’s permission), and it placed us together in front of the same cake. It got our outfits exactly right, and the faces could have fooled our own moms.
+
+Google's Gemini took childhood photos of my friend and me and put us together, in front of a birthday cake for a party invite.
+To prevent Google from using the images to improve its AI, I turned my activity history off.
+The Sora app (currently invite-only) is part video generator, part social network—like an upside-down version of TikTok where every clip is fake. You only need to pose for a few seconds for it to generate your digital doppelgänger, aka “cameo.” You can use your cameo—and your friends’ cameos—to star in any video you dream up.
+In the name of research, I uploaded my likeness. I looked into my phone’s camera, moved my head around and spoke aloud the three numbers that appeared on screen. Within minutes, AI me was escaping from a pit of USB cords, and accepting an Oscar for going to bed early.
+My avatar wasn’t perfect—my teeth looked off, and so did some of my expressions—but the resemblance was impressive.
+I restricted the use of my cameo to a few friends. You can set restrictions on the type of cameos (none featuring your rival football team, for example) and how you appear in them (no buzz cuts, please).
+People also can’t secretly make videos of you: They can’t download or screen-record videos with multiple cameos, and anything they make with your cameo appears in your account, too. You can delete your cameo appearances across all accounts if you want.
+Despite the protections, I was creeped out that my digital twin now resided somewhere inside OpenAI.
+Sora blocked videos about Taylor Swift and other living celebrities. But I spotted plenty of dead legends including Tupac, Einstein, Abraham Lincoln, Bob Ross and John F. Kennedy. In one eerily realistic clip, an AI version of Martin Luther King Jr. said, “I have a dream that one day Sora will change its content-violation policy.”
+OpenAI says it takes steps to protect user privacy. In the Sora app’s settings, you can prevent the company from using your content to train its models. (News Corp, owner of The Wall Street Journal, has a content-licensing partnership with OpenAI.)
+There are other AI video apps, including Meta’s Vibes and Google’s Veo, and likely more to come. And while most AI clips I’ve seen have been lighthearted, there’s a sinister side to the technology, where deepfakes are used to impersonate real people and steal money.
+The cost of a stolen face
+For years, meteorologist Bree Smith appeared on Nashville TV to share the forecast. On Instagram, she shared bits of her life to over 23,000 followers. Last year, Smith received an odd email from a man who said he was a longtime viewer. Someone was posing as Smith online, offering “pictures only a husband would have,” he wrote. 
+The mother of two panicked. According to the viewer, a fake Smith had sent images via the Signal chat app with her face on a seminude body, along with a video of her saying, “It is me, it is really me.” Except it wasn’t her. She believes the images and videos were manipulated using AI.
+The scammers used the deepfakes to try to persuade victims to pay $200 for access to a phony Smith fan account. In another instance, a fake Smith offered a hotel stay and promised intimate acts.
+“It’s degrading and traumatizing to experience your own identity being distorted without your consent,” Smith said, now age 43. This year, she helped pass a Tennessee law making it illegal to share or threaten to share such deepfakes.
+Smith tracked around 70 fake Facebook accounts. Vermillio—a service that searches for your likeness around the web—found thousands more fake Smith pics and videos and hundreds of accounts on YouTube, TikTok and elsewhere.
+Vermillio Chief Executive Dan Neely said the company can monitor the outputs of public generative-AI models like Sora and social-media forums for misuse of its customers’ name and likeness. The service offers a free tool to assess your risk, with plans from $10 to $99 a month depending on the number of requests to take down unauthorized content.
+There are other companies in the business of AI-likeness protection, including Loti, which charges up to $2,500 a month for public figures and has a free program in beta.
+Fake nudes are a frightening new reality for teens. A 2024 study by the Center for Democracy and Technology found that 15% of U.S. high-school students say they’ve heard about nonconsensual intimate deepfakes depicting their classmates.
+Neely said AI needs better safeguards to protect people’s identity and reputations. It’s for tech companies’ own good. “Many people, once they feel safe, will feel better about engaging with the technology,” he said.
+Until then, our faces are up for grabs.
+Write to Nicole Nguyen at nicole.nguyen@wsj.com
+
+
+
+**** *FUENTE_WP *17-12-2025
+
+
+
+The rise of AI fake news is creating a ‘misinformation superspreader’
+AI is making it easy for anyone to create propaganda outlets, producing content that can be hard to differentiate from real news
+
+
+Artificial intelligence is automating the creation of fake news, spurring an explosion of web content mimicking factual articles that instead disseminates false information about elections, wars and natural disasters.
+Since May, websites hosting AI-created false articles have increased by more than 1,000 percent, ballooning from 49 sites to more than 600, according to NewsGuard, an organization that tracks misinformation.
+Historically, propaganda operations have relied on armies of low-paid workers or highly coordinated intelligence organizations to build sites that appear to be legitimate. But AI is making it easy for nearly anyone — whether they are part of a spy agency or just a teenager in their basement — to create these outlets, producing content that is at times hard to differentiate from real news.
+One AI-generated article recounted a made-up story about Benjamin Netanyahu’s psychiatrist, a NewsGuard investigation found, alleging that he had died and left behind a note suggesting the involvement of the Israeli prime minister. The psychiatrist appears to have been fictitious, but the claim was featured on an Iranian TV show, and it was recirculated on media sites in Arabic, English and Indonesian, and spread by users on TikTok, Reddit and Instagram.
+[ How to avoid falling for misinformation, AI images on social media ]
+The heightened churn of polarizing and misleading content may make it difficult to know what is true — harming political candidates, military leaders and aid efforts. Misinformation experts said the rapid growth of these sites is particularly worrisome in the run-up to the 2024 elections.
+💻
+Follow Technology
+Follow
+“Some of these sites are generating hundreds if not thousands of articles a day,” said Jack Brewster, a researcher at NewsGuard who conducted the investigation. “This is why we call it the next great misinformation superspreader.”
+Generative artificial intelligence has ushered in an era in which chatbots, image makers and voice cloners can produce content that seems human-made.
+Well-dressed AI-generated news anchors are spewing pro-Chinese propaganda, amplified by bot networks sympathetic to Beijing. In Slovakia, politicians up for election found their voices had been cloned to say controversial things they never uttered, days before voters went to the polls. A growing number of websites, with generic names such as iBusiness Day or Ireland Top News, are delivering fake news made to look genuine, in dozens of languages from Arabic to Thai.
+Readers can easily be fooled by the websites.
+Global Village Space, which published the piece on Netanyahu’s alleged psychiatrist, is flooded with articles on a variety of serious topics. There are pieces detailing U.S. sanctions on Russian weapons suppliers; the oil behemoth Saudi Aramco’s investments in Pakistan; and the United States’ increasingly tenuous relationship with China.
+The site also contains essays written by a Middle East think tank expert, a Harvard-educated lawyer and the site’s chief executive, Moeed Pirzada, a television news anchor from Pakistan. (Pirzada did not respond to a request for comment. Two contributors confirmed they have written articles appearing on Global Village Space.)
+But sandwiched in with these ordinary stories are AI-generated articles, Brewster said, such as the piece on Netanyahu’s psychiatrist, which was relabeled as “satire” after NewsGuard reached out to the organization during its investigation. NewsGuard says the story appears to have been based on a satirical piece published in June 2010, which made similar claims about an Israeli psychiatrist’s death.
+[ Quiz: Did AI make this? Test your knowledge. ]
+Having real and AI-generated news side-by-side makes deceptive stories more believable. “You have people that simply are not media literate enough to know that this is false,” said Jeffrey Blevins, a misinformation expert and journalism professor at the University of Cincinnati. “It’s misleading.”
+Websites similar to Global Village Space may proliferate during the 2024 election, becoming an efficient way to distribute misinformation, media and AI experts said.
+The sites work in two ways, Brewster said. Some stories are created manually, with people asking chatbots for articles that amplify a certain political narrative and posting the result to a website. The process can also be automatic, with web scrapers searching for articles that contain certain keywords, and feeding those stories into a large language model that rewrites them to sound unique and evade plagiarism allegations. The result is automatically posted online.
+NewsGuard locates AI-generated sites by scanning for error messages or other language that “indicates that the content was produced by AI tools without adequate editing,” the organization says.
+The motivations for creating these sites vary. Some are intended to sway political beliefs or wreak havoc. Other sites churn out polarizing content to draw clicks and capture ad revenue, Brewster said. But the ability to turbocharge fake content is a significant security risk, he added.
+Technology has long fueled misinformation. In the lead-up to the 2020 U.S. election, Eastern European troll farms — professional groups that promote propaganda — built large audiences on Facebook disseminating provocative content on Black and Christian group pages, reaching 140 million users per month.
+[ You are probably spreading misinformation. Here’s how to stop. ]
+Pink-slime journalism sites, named after the meat byproduct, often crop up in small towns where local news outlets have disappeared, generating articles that benefit the financiers that fund the operation, according to the media watchdog Poynter.
+But Blevins said those techniques are more resource-intensive compared with artificial intelligence. “The danger is the scope and scale with AI … especially when paired with more sophisticated algorithms,” he said. “It’s an information war on a scale we haven’t seen before.”
+It’s not clear whether intelligence agencies are using AI-generated news for foreign influence campaigns, but it is a major concern. “I would not be shocked at all that this is used — definitely next year with the elections,” Brewster said. “It’s hard not to see some politician setting up one of these sites to generate fluff content about them and misinformation about their opponent.”
+Blevins said people should watch for clues in articles, “red flags” such as “really odd grammar” or errors in sentence construction. But the most effective tool is to increase media literacy among average readers.
+“Make people aware that there are these kinds of sites that are out there. This is the kind of harm they can cause,” he said. “But also recognize that not all sources are equally credible. Just because something claims to be a news site doesn’t mean that they actually have a journalist … producing content.”
+Regulation, he added, is largely nonexistent. It may be difficult for governments to clamp down on fake news content, for fear of running afoul of free-speech protections. That leaves it to social media companies, which haven’t done a good job so far.
+It’s infeasible to deal quickly with the sheer number of such sites. “It’s a lot like playing whack-a-mole,” Blevins said.
+“You spot one [site], you shut it down, and there’s another one created someplace else,” he added. “You’re never going to fully catch up with it.”
+
+
+
+**** *FUENTE_CNN *08-04-2025
+
+Deepfake fraud: Scammers using AI celebrity videos to steal personal info
+
+
+Steve Harvey is best known for awarding money to “Family Feud” contestants or dishing out advice on his radio show.
+
+But in recent years, he’s also become a popular target of AI-generated memes, many of which are humorous and seemingly harmless — like depictions of Harvey as a rockstar or seen running from demons.
+
+More sinister actors, however, are using AI-generated versions of Harvey’s image, voice and likeness for scams.
+
+Last year, Harvey was among celebrities like Taylor Swift and Joe Rogan whose voices were mimicked by AI and used to promote a scam that promised people government provided funds.
+
+“I’ve been telling you guys for months to claim this free $6,400 dollars,” a voice that sounds like Harvey’s says in one video.
+
+Now, Harvey is speaking up by advocating for legislation and penalties for the people behind these scams — and the platforms hosting them. And Congress seems to be listening; it’s considering several pieces of legislation aiming to penalize those behind nefarious uses of AI, including an updated version of the No Fakes Act, which aims to hold creators and platforms liable for unauthorized AI-generated images, videos and sound.
+
+The bipartisan group of senators behind the act, including Democrats Chris Coons of Delaware and Amy Klobuchar of Minnesota and Republicans Marsha Blackburn of Tennessee and Thom Tillis of North Carolina, are planning to reintroduce it within the next few weeks, a source familiar with the matter told CNN. It joins other legislation aimed at criminalizing AI-generated deepfake pornography, called the Take It Down Act, which is also before Congress and earned support from first lady Melania Trump this week.
+
+In 2025, Harvey says scams using his likeness are at “an all-time high.”
+
+“I prided myself on my brand being one of authenticity, and people know that, and so they take the fact that I’m known and trusted as an authentic person, pretty sincere,” Harvey told CNN in an interview at Tyler Perry Studios between filming episodes of “Family Feud.” “My concern now is the people that it affects. I don’t want fans of mine or people who aren’t fans to be hurt by something.”
+
+20250307-Steve_Harvey Scarlett Johansson SPLIT.jpg
+Elijah Nouvelage/AFP/Joe Maher/Getty Images
+Celebrities call for action against AI deepfakes
+Major recording artists, actors and other celebrities have been caught up in AI scandals over the last two years as the technology rapidly evolves. A woman in France lost $850,000 after scammers used AI-generated images of Brad Pitt to con her into thinking she was helping the actor.
+
+Actress Scarlett Johansson, who has openly grappled with AI imitating her likeness, has also thrown her support behind legislation.
+
+“There is a 1,000-foot wave coming regarding AI that several progressive countries, not including the United States, have responded to in a responsible manner,” Johansson said in a February statement to CNN after an AI-generated video depicting a phony version of her responding to Kanye West’s antisemitic remarks went viral. “It is terrifying that the US government is paralyzed when it comes to passing legislation that protects all of its citizens against the imminent dangers of AI.”
+
+Harvey said he also supports the legislation, which has garnered support from the Recording Academy, the Screen Actors Guild, the Motion Picture Association, major talent agencies and some of the biggest names in Hollywood.
+
+“It’s freedom of speech, it’s not freedom of, ‘make me speak the way you want me to speak,’” Harvey said. “That’s not freedom, that’s abuse. And Congress has got to get involved in this thing, because it’s going to end up hurting them, too.”
+
+Before reintroducing the No Fakes Act, the senators also hope to gain support from online platforms, which would potentially be penalized for hosting that AI content under the bill. The current bill fines platforms $5,000 for each violation –— meaning a viral AI creation could quickly add up to millions of dollars in fines. A source familiar with the bill said the platforms would not be brought on at the cost of lower penalties.
+
+“We’ve been very clear with the platforms who have withheld their endorsement for now that we’re not going to make any changes unless the folks that we’re doing this bill for, the folks in the creative industries, are okay with it,” a person familiar with the bill told CNN. “We’re not going to sell them off to try to get the platforms on board.”
+
+But critics of the bill, which include public advocacy organizations like Public Knowledge, Center for Democracy and Technology, American Library Association and the Electronic Frontier Foundation, worry the bill as written introduces too much regulation. In a letter to the senators last year, they warned it could endanger First Amendment rights and enable misinformation, while resulting in a “torrent” of lawsuits.
+
+“We understand and share the serious concerns many have expressed about the ways digital replica technology can be misused, with harms that can impact ordinary people as well as performers and celebrities,” they wrote. “These harms deserve the serious attention they are receiving, and preventing them may well involve legislation to fill gaps in existing law. Unfortunately, the recently-introduced NO FAKES bill goes too far in introducing an entirely new federal IP right.”
+
+The startup helping celebrities spot AI deepfakes
+The Vermillio program is seen during a CNN interview.
+The Vermillio program is seen during a CNN interview. CNN
+But as Congress goes through the motions, AI continues to evolve. And celebrities say they feel they are limited in how they can pursue imitators using their likeness — especially anonymous online accounts.
+
+That’s where companies like Vermillio AI come in. The company, which has partnered with major talent agencies and movie studios, uses a platform called TraceID that tracks AI instances of their clients and automates the normally cumbersome take-down requests.
+
+“Back in 2018 there were maybe 19,000 pieces of deepfake content,” Vermillio CEO Dan Neely told CNN in an interview. “Today, there are roughly a million created every minute.”
+
+For celebrities, tracking deepfakes can be especially challenging because they can spread so quickly on social platforms. “So trying to find them, play this game of Whack a Mole, is quite complex,” Neely said.
+
+Neely showed CNN Harvey’s Vermillio account, which included AI-voice generated chatbots meant to sound like Harvey and fake videos of the TV personality encouraging gambling.
+
+Neely said the company’s technology uses a type of “fingerprinting” to distinguish authentic content and from AI-generated material. That involves crawling the web for images that have been tampered with using large language models, better known as LLMs, which are the building blocks of many popular generative AI services.
+
+“An image of you is made up of millions of pieces of data,” Neely said. “How do we use those pieces of data to go and find that where it exists across the internet?”
+
+Celebrities can afford a service like Vermillio. But for other creators, there are fewer resources.
+
+“The sooner we do something, I think the better off we’ll all be,” Harvey said. “Because, I mean, why wait? How many people we got to watch get hurt by this before somebody does something?”
+
+
+
+**** *FUENTE_CNN *08-02-2025
+
+
+Deepfakes can cause long-lasting damage to children
+
+While parents shouldn't minimize the harm children may suffer if they become deepfake victims, experts say, they should also teach kids that they can recover from such experiences.
+While parents shouldn't minimize the harm children may suffer if they become deepfake victims, experts say, they should also teach kids that they can recover from such experiences. Photo Illustration by CNN/Getty images
+Editor’s note: Kara Alaimo is an associate professor of communication at Fairleigh Dickinson University. Her book “Over the Influence: Why Social Media Is Toxic for Women and Girls — And How We Can Take It Back” was recently published by Alcove Press. Follow her on Instagram, Facebook and Bluesky.
+
+
+If your child hasn’t seen a deepfake of someone associated with their school, it’s likely that a friend or their teacher is aware of one.
+
+Deepfakes are inauthentic images, videos or audio recordings created by artificial intelligence that appear real but have been digitally manipulated, or faked.
+
+Forty percent of students and 29% of teachers said they were aware of a deepfake of someone associated with their school that was shared in the last school year, according to a recent survey by the Center for Democracy & Technology, a nonprofit that focuses on digital rights.
+
+Fifteen percent of students and 11% of teachers were aware of deepfakes of people at their school that were intimate or sexually explicit.
+
+
+
+Kids are being sexually assaulted by people they meet on social media. Here’s how to prevent it
+
+I recently saw how deepfakes can play out in schools when I agreed to be an expert in a legal case involving a teacher accused of creating nude deepfakes of his students. According to my research, when real or fake nude images of a person end up online, it can put the victim at greater risk of depression, suicide and sexual assault. It can also make it harder for victims to date or find a job, because these images could turn up when people search for them online.
+
+Yet most students, teachers and parents said their schools have not shared policies and procedures with them about deepfake nonconsensual intimate imagery, including 57% of high school students, 62% of secondary teachers and 67% of parents of middle and high school students, according to the Center for Democracy & Technology survey.
+
+
+Instead of trying to prevent these incidents, the study found schools tend to act once they’ve happened. Then they focus on punishing perpetrators without providing appropriate support to the victims, the survey found.
+
+So what are parents to do? With schools often failing to take measures to protect students, parents need to talk to their kids about why they should never create or engage with intimate deepfakes.
+
+
+Related article
+5 strategies for families to ensure children are safe online, according to a new White House report
+
+Educating kids about the harms
+Even when deepfakes aren’t real, parents should discuss that their harms can be. Lindsay Lieberman, a Washington, DC-based attorney who represents victims of deepfakes, said, “The technology is so sophisticated that it looks like it is my client, and the harm can be just as profound as if it was actually my client’s body.”
+
+Victims often “experience psychological harm, including significant distress, anxiety, depression, a sense of humiliation and helplessness, and some even report having suffered post-traumatic stress disorder,” she warned.
+
+They also frequently suffer emotional and social harms. “This kind of humiliation, whether it’s her body or not, can cause her to lose friends; it can damage her reputation,” Lieberman said. “It can make her afraid to show up in online spaces which she might need to do for her college applications or for her future career. Some victims wind up not being able to attend school because they’re suffering so much.”
+
+Victims often face financial harm, she added, because many hire companies to try to remove the content from the internet.
+
+That’s why we need to teach kids not only that they shouldn’t create deepfakes but also why they should never engage with them by sharing or liking them.
+
+In having these conversations, parents should lean into empathy by asking their kids to imagine how they would feel if it happened to them, said Dr. Devorah Heitner, the Chicago-based author of “Growing Up in Public: Coming of Age in a Digital World.” “All young people recognize that we don’t want to be part of victimizing others. We don’t want to be part of making other people feel less safe.”
+
+Girl texting on smartphone at home
+video
+Related video
+Here’s when a social psychologist recommends letting your child use smartphones and social media
+
+Protecting kids from becoming victims
+Parents also need to educate their kids about the risks of becoming victims.
+
+“I always encourage parents to delay social media and phone use for as long as possible,” Lieberman said. “But if your kids are on social media, you want to talk to them about privacy settings and making sure that they know every single person that they are connected with, and that can see their content.”
+
+By sharing content privately — only with people whom they’ve accepted as friends or followers — children can make it harder for strangers or people they consider untrustworthy to access photos of them that can be manipulated.
+
+High angle view of distracted teenage boy using mobile phone while lying on bed by books at home
+Related article
+Teens spend most of their time on their phones. Here’s expert advice on what to do
+
+When I speak to students in schools about deepfakes and other dangers they could experience on social media, I also advise them to talk offline to the people who send them friend or follow requests to confirm they are the ones who created the accounts.
+
+Lieberman also recommended that parents model good cyber hygiene by being careful what they share online. She said parents should make sure kids know that if they see deepfakes they can come to them for help without worrying about being punished.
+
+While it’s important not to minimize the harms victims experience, Heitner said that parents should also teach children that they can recover if it happens to them. “We also don’t want to tell girls, ‘This has happened to you, now you’re broken. You can never date. You can never move forward,’” she said.
+
+It’s important, Heitner noted, to “treat people who are survivors like survivors and not just victims, and give them opportunities to find community, to move on and to recognize their own strength.”
+
+GettyImages-1886978217.jpg
+Related article
+When parents are on their phones a lot, here’s what happens to their kids
+
+Supporting victims of deepfakes
+Lieberman said parents and victims can report incidents to the police and FBI, but she also advised reaching out to nonprofits for support, including the Rape, Abuse & Incest National Network and National Center for Missing & Exploited Children.
+
+Parents can reach out to a lawyer if they or their child are victims, and Lieberman said victims shouldn’t assume they can’t afford one. Many lawyers — including Lieberman —offer free consultations, and they sometimes take contingency cases in which they’re only paid if the victim gets paid by winning a judgment or receiving money in a settlement.
+
+While schools clearly need to educate children about deepfakes and implement policies to protect them from becoming victims, it’s essential for parents to warn children about how they can protect themselves and avoid participating in this form of sexual abuse.
+
+
+**** *FUENTE_CNN *19-05-2025
+
+Victims of explicit deepfakes will now be able to take legal action against people who create them
+Clare Duffy
+
+
+After months of outcry over the issue of AI-generated, non-consensual deepfakes, President Donald Trump is set to sign a law that will make sharing them illegal.
+After months of outcry over the issue of AI-generated, non-consensual deepfakes, President Donald Trump is set to sign a law that will make sharing them illegal. FreshSplash/iStockphoto/Getty Images
+
+
+In recent years, people ranging from Taylor Swift and Rep. Alexandria Ocasio-Cortez to high school girls around the country have been victims of non-consensual, explicit deepfakes — images where a person’s face is superimposed on a nude body using artificial intelligence.
+
+Now, after months of outcry, there is finally a federal law criminalizing the sharing of those images.
+
+President Donald Trump signed the Take It Down Act in a ceremony at the White House on Monday. In addition to making it to illegal to share online nonconsensual, explicit images — real or computer-generated — the law also requires tech platforms to remove such images within 48 hours of being notified about them.
+
+The law will boost protections for victims of revenge porn and nonconsensual, AI-generated sexual images, increase accountability for the tech platforms where the content is shared and provide law enforcement with clarity about how to prosecute such activity. Previously, federal law prohibited creating or sharing realistic, AI-generated explicit images of children. But laws protecting adult victims varied by state and didn’t exist nationwide.
+
+The Take It Down Act also represents one of the first new US federal laws aimed at addressing the potential harms from AI-generated content as the technology rapidly advances.
+
+“AI is new to a lot of us and so I think we’re still figuring out what is helpful to society, what is harmful to society, but (non-consensual) intimate deepfakes are such a clear harm with no benefit,” said Ilana Beller, organizing manager at progressive advocacy group Public Citizen, which endorsed the legislation.
+
+
+
+AI means anyone can be a victim of deepfake porn. Here’s how to protect yourself
+
+The law passed both chambers of Congress nearly unanimously, with only two House representatives dissenting, in a rare moment of bipartisan consensus. More than 100 organizations, including non-profits and big tech companies such as Meta, TikTok and Google, also supported the legislation.
+
+First lady Melania Trump threw her support behind the effort, too, lobbying House lawmakers in April to pass the legislation. And the president referenced the bill during his address to a joint session of Congress in March, during which the first lady hosted teenage victim Elliston Berry as one of her guests. Berry attended the bill signing event at the White House’s Rose Garden on Monday, along with Francesca Mani, another teen who has pushed for legal protections after she was targeted by this form of harassment.
+
+“Today, through the Take It Down Act, we affirm that the wellbeing of our children is central to our future of our families in America,” the first lady said Monday.
+
+Texas Sen. Ted Cruz and Minnesota Sen. Amy Klobuchar first introduced the legislation last summer.
+
+Months earlier, a classmate of Texas high schooler Berry shared on Snapchat an image of her that he’d taken from her Instagram and altered using AI to make it look like she was nude. Berry wasn’t alone — teen girls in New Jersey, California and elsewhere have also been subject to this form of harassment.
+
+“Everyday I’ve had to live with the fear of these photos getting brought up or resurfacing,” Berry told CNN last year, in an interview about her support for the Take It Down Act. “By this bill getting passed, I will no longer have to live in fear, knowing that whoever does bring these images up will be punished.”
+
+Facing increased pressure over the issue, some major tech platforms had taken steps to make it easier for victims to have nonconsensual sexual images removed from their sites.
+
+Some big tech platforms, including Google, Meta and Snapchat, already have forms where users can request the removal of explicit images. And others have partnered with non-profit organizations StopNCII.org and Take It Down that facilitate the removal of such images across multiple platforms at once, although not all sites cooperate with the groups.
+
+Apple and Google have also made efforts to remove AI services that convert clothed images into manipulated nude ones from their app stores and search results.
+
+Still, bad actors will often seek out platforms that aren’t taking action to prevent harmful uses of their technology, underscoring the need for the kind of legal accountability that the Take It Down Act will provide.
+
+“This legislation finally compels social media bros to do their jobs and protect women from highly intimate and invasive breaches of their rights,” Imran Ahmed, CEO of the non-profit Center for Countering Digital Hate, said in a statement to CNN. “While no legislation is a silver bullet, the status quo—where young women face horrific harms online—is unacceptable.”
+
+Public Citizen’s Beller added that it’s also “important to signal as a society that this is unacceptable.”
+
+“If our federal law is passing a law that says, this is unacceptable and here are the consequences, that sends a clear signal,” she said.
+
+CNN’s Betsy Klein contributed to this report.
+
+This story has been updated with additional developments.
+
+
+
+
+**** *FUENTE_CNN *30-01-2025
+
+American teens are increasingly misled by fake content online, report shows
+Liam Reilly
+
+
+As AI has made fake content much easier to produce, a growing number of American teenagers say they are being misled by AI-generated photos, videos or other content on the internet, a new study shows.
+
+The study, published Wednesday by Common Sense Media, a nonprofit advocacy group, asked 1,000 teenagers aged 13 to 18 about their experiences with media made by generative AI tools. About 35% reported being deceived by fake content online. However, a larger 41% reported they had encountered content that was real yet misleading and 22% said they had shared information that turned out to be fake.
+
+The findings come as a growing number of teenagers adopt artificial intelligence. A September Common Sense study showed that seven in 10 teenagers had at least tried generative AI.
+
+Two years after ChatGPT’s launch, the AI arena has grown increasingly crowded, with DeepSeek’s meteoric arrival on Monday. But the top models are still prone to AI hallucinations, according to a July 2024 study from Cornell, the University of Washington and the University of Waterloo — meaning even the top AI platforms still create false information out of thin air.
+
+And teenagers who encountered fake online content were more likely to say AI would exacerbate their verification of online information, according to Wednesday’s study from Common Sense, a media and tech nonprofit.
+
+The survey also pressed teenagers about their thoughts on major tech corporations, including Google, Apple, Meta, TikTok and Microsoft. Nearly half of teenagers don’t trust Big Tech to make responsible decisions about how they use AI, according to the study.
+
+“The ease and speed at which generative AI allows everyday users to spread unreliable claims and inauthentic media may exacerbate teens’ existing low levels of trust in institutions like the media and government,” Wednesday’s study said.
+
+Teenagers’ distrust of Big Tech echo a growing dissatisfaction with major tech companies in the United States. American adults also have to contend with increases in misleading or altogether fake content, exacerbated by the erosion of already limited digital guardrails.
+
+Since acquiring Twitter in 2022 and renaming the platform X, Elon Musk has gutted its moderation teams, allowed misinformation and hate speech to spread and reinstated the accounts of previously banned conspiracy theorists, among other moves. Recently, Meta moved to replace third-party fact-checkers with Community Notes, which CEO Mark Zuckerberg has noted will lead to more harmful content appearing across Facebook, Instagram and its other platforms.
+
+“Teens’ perceptions of the accuracy of online content signal a distrust in digital platforms, pointing to an opportunity for educational interventions on misinformation for teens,” the study found, adding that there’s also a “need for tech companies to prioritize transparency and develop features that enhance the credibility of the content shared on their platforms.”
+
+
+
+
+**** *FUENTE_aljazeera *26-06-2025 
+
+Google’s AI video tool amplifies fears of an increase in misinformation
+Experts say Veo 3 makes it very easy to make fake videos that can spread false news. In both Tehran and Tel Aviv, residents have faced heightened anxiety in recent days as the threat of missile strikes looms over their communities. Alongside the very real concerns for physical safety, there is growing alarm over the role of misinformation, particularly content generated by artificial intelligence, in shaping public perception. GeoConfirmed, an online verification platform, has reported an increase in AI-generated misinformation, including fabricated videos of air strikes that never occurred, both in Iran and Israel. This follows a similar wave of manipulated footage that circulated during recent protests in Los Angeles, which were sparked by a rise in immigration raids in the second-most populous city in the United States. The developments are part of a broader trend of politically charged events being exploited to spread false or misleading narratives. The launch of a new AI product by one of the largest tech companies in the world has added to those concerns of detecting fact from fiction. Late last month, Google’s AI research division, DeepMind, released Veo 3, a tool capable of generating eight-second videos from text prompts. The system, one of the most comprehensive ones currently available for free, produces highly realistic visuals and sound that can be difficult for the average viewer to distinguish from real footage. To see exactly what it can do, Al Jazeera created a fake video in minutes using a prompt depicting a protester in New York claiming to be paid to attend, a common talking point Republicans historically have used to delegitimise protests, accompanied by footage that appeared to show violent unrest. The final product was nearly indistinguishable from authentic footage. Advertisement Al Jazeera also created videos showing fake missile strikes in both Tehran and Tel Aviv using the prompts “show me a bombing in Tel Aviv” and then a similar prompt for Tehran. Veo 3 says on its website that it blocks “harmful requests and results”, but Al Jazeera had no problems making these fake videos. “I recently created a completely synthetic video of myself speaking at Web Summit using nothing but a single photograph and a few dollars. It fooled my own team, trusted colleagues, and security experts,” said Ben Colman, CEO of deepfake detection firm Reality Defender, in an interview with Al Jazeera. “If I can do this in minutes, imagine what motivated bad actors are already doing with unlimited time and resources.” He added, “We’re not preparing for a future threat. We’re already behind in a race that started the moment Veo 3 launched. Robust solutions do exist and work — just not the ones the model makers are offering as the be-all, end-all.” Google says it is taking the issue seriously. “We’re committed to developing AI responsibly, and we have clear policies to protect users from harm and govern the use of our AI tools. Any content generated with Google AI includes a SynthID watermark, and we add a visible watermark to Veo videos as well,” a company spokesperson told Al Jazeera. ‘They don’t care about customers’ However, experts say the tool was released before those features were fully implemented, a move some believe was reckless. Joshua McKenty, CEO of deepfake detection company Polyguard, said that Google rushed the product to market because it had been lagging behind competitors like OpenAI and Microsoft, which have released more user-friendly and publicised tools. Google did not respond to these claims. “Google’s trying to win an argument that their AI matters when they’ve been losing dramatically,” McKenty said. “They’re like the third horse in a two-horse race. They don’t care about customers. They care about their own shiny tech.” That sentiment was echoed by Sukrit Venkatagiri, an assistant professor of computer science at Swarthmore College. “Companies are in a weird bind. If you don’t develop generative AI, you’re seen as falling behind and your stock takes a hit,” he said. “But they also have a responsibility to make these products safe when deployed in the real world. I don’t think anyone cares about that right now. All of these companies are putting profit — or the promise of profit — over safety.” Google’s own research, published last year, acknowledged the threat generative AI poses. Advertisement “The explosion of generative AI-based methods has inflamed these concerns [about misinformation], as they can synthesise highly realistic audio and visual content as well as natural, fluent text at a scale previously impossible without an enormous amount of manual labour,” the study read. Demis Hassabis, CEO of Google DeepMind, has long warned his colleagues in the AI industry against prioritising speed over safety. “I would advocate not moving fast and breaking things,” he told Time in 2023. He declined Al Jazeera’s request for an interview. Yet despite such warnings, Google released Veo 3 before fully implementing safeguards, leading to incidents like the one the National Guard had to debunk in Los Angeles after a TikTok account made a fake “day in the life” video of a soldier that said he was preparing for “today’s gassing” — referring to releasing tear gas on protesters. Mimicking real events The implications of Veo 3 extend far beyond protest footage. In the days following its release, several fabricated videos mimicking real news broadcasts circulated on social media, including one of a false report about a home break-in that included CNN graphics. Another clip falsely claimed that JK Rowling’s yacht sank off the coast of Turkiye after an orca attack, attributing the report to Alejandra Caraballo of Harvard Law’s Cyberlaw Clinic, who built the video to test out the tool. In a post, Caraballo warned that such tech could mislead older news consumers in particular. “What’s worrying is how easy it is to repeat. Within ten minutes, I had multiple versions. This makes it harder to detect and easier to spread,” she wrote. “The lack of a chyron [banner on a news broadcast] makes it trivial to add one after the fact to make it look like any particular news channel.” In our own experiment, we used a prompt to create fake news videos bearing the logos of ABC and NBC, with voices mimicking those of CNN anchors Jake Tapper, Erin Burnett, John Berman, and Anderson Cooper. “Now, it’s just getting harder and harder to tell fact from fiction,” Caraballo told Al Jazeera. “As someone who’s been researching AI systems for years, even I’m starting to struggle.” This challenge extends to the public, as well. A study by Penn State University found that 48 percent of consumers were fooled by fake videos circulated via messaging apps or social media. Contrary to popular belief, younger adults are more susceptible to misinformation than older adults, largely because younger generations rely on social media for news, which lacks the editorial standards and legal oversight of traditional news organisations. A UNESCO survey from December showed that 62 percent of news influencers do not fact-check information before sharing it. Google is not alone in developing tools that facilitate the spread of synthetic media. Companies like Deepbrain offer users the ability to create AI-generated avatar videos, though with limitations, as it cannot produce full-scene renders like Veo 3. Deepbrain did not respond to Al Jazeera’s request for comment. Other tools like Synthesia and Dubverse allow video dubbing, primarily for translation. Advertisement This growing toolkit offers more opportunities for malicious actors. A recent incident involved a fabricated news segment in which a CBS reporter in Dallas was made to appear to say racist remarks. The software used remains unidentified. CBS News Texas did not respond to a request for comment. As synthetic media becomes more prevalent, it poses unique risks that will allow bad actors to push manipulated content that spreads faster than it can be corrected, according to Colman. “By the time fake content spreads across platforms that don’t check these markers [which is most of them], through channels that strip them out, or via bad actors who’ve learned to falsify them, the damage is done,” Colman said.
+
+
+**** *FUENTE_aljazeera *10-06-2025 
+
+AI now sounds more like us – should we be concerned?
+Several wealthy Italian businessmen received a surprising phone call earlier this year. The speaker, who sounded just like Defence Minister Guido Crosetto, had a special request: Please send money to help us free kidnapped Italian journalists in the Middle East. But it was not Crosetto at the end of the line. He learned about the call only when several of the targeted businessmen contacted him about it. It eventually transpired that fraudsters had used artificial intelligence (AI) to fake Crosetto’s voice. Advances in AI technology mean it is now possible to generate ultrarealistic voiceovers and soundbites. Indeed, new research has found that AI-generated voices are now indistinguishable from real human voices. In this explainer, we unpack what the implications of this could be. What happened in the Crosetto case? Several Italian entrepreneurs and businessmen received calls at the start of February, one month after Prime Minister Giorgia Meloni had secured the release of Italian journalist Cecilia Sala, who had been imprisoned in Iran. In the calls, the “deepfake” voice of Crosetto asked the businessmen to wire approximately 1 million euros ($1.17m) to an overseas bank account, the details of which were provided during the call or in other calls purporting to be from members of Crosetto’s staff. On February 6, Crosetto posted on X, saying he had received a call on February 4 from “a friend, a prominent entrepreneur”. That friend asked Crosetto if his office had called to ask for his mobile number. Crosetto said it had not. “I tell him it was absurd, as I already had it, and that it was impossible,” he wrote in his X post. Advertisement Crosetto added that he was later contacted by another businessman who had made a large bank transfer following a call from a “General” who provided bank account information. “He calls me and tells me that he was contacted by me and then by a General, and that he had made a very large bank transfer to an account provided by the ‘General’. I tell him it’s a scam and inform the carabinieri [Italian police], who go to his house and take his complaint.” Similar calls from fake Ministry of Defence officials were also made to other entrepreneurs, asking for personal information and money. While he has reported all this to the police, Crosetto added: “I prefer to make the facts public so that no one runs the risk of falling into the trap.” Some of Italy’s most prominent business figures, including late fashion designer Giorgio Armani and Prada cofounder Patrizio Bertelli, were targeted in the scam. But, according to the authorities, only Massimo Moratti, the former owner of Inter Milan football club, actually sent the requested money. The police were able to trace and freeze the money from the wire transfer he made. Moratti has since filed a legal complaint with the city’s prosecutor’s office. He told Italian media: “I filed the complaint, of course, but I’d prefer not to talk about it and see how the investigation goes. It all seemed real. They were good. It could happen to anyone.” How does AI voice generation work? AI voice generators typically use “deep learning” algorithms, through which the AI program studies large data sets of real human voices and “learns” pitch, enunciation, intonation and other elements of a voice. The AI program is trained using several audio clips of the same person and is “taught” to mimic that specific person’s voice, accent and style of speaking. The generated voice or audio is also called an AI-generated voice clone. Using natural language processing (NLP) programs, which instruct it to understand, interpret and generate human language, AI can even learn to understand tonal features of a voice, such as sarcasm or curiosity. These programs can convert text to phonetic components and then generate a synthetic voice clip that sounds like a real human. “Broadly speaking, we can train an AI model with thousands and thousands of hours of recordings of human voice, so the model can learn what human voices in general sound like,” Nadine Lavan, a senior lecturer in psychology at Queen Mary University of London, told Al Jazeera. “That is then for model from which you can create AI-generated voices, either by just asking the model to go and generate a voice that has no real human counterpart or by giving the model an example of a voice and telling it to clone that voice, to create an AI-generated version of that specific voice or a deepfake,” Lavan, who is one of the coauthors of the recent research on AI voice, said. Advertisement The term “deepfake” was coined in 2014 by Ian Goodfellow, director of machine learning at Apple Special Projects Group. It combines “deep learning” and “fake”, and refers to highly realistic AI images, videos or audio, all generated through deep learning. How good are they at impersonating someone? Research conducted by a team at Queen Mary University of London and published by the science journal PLOS One on September 24 concluded that AI-generated voices do sound like real human voices to people listening to them. In order to conduct the research, the team generated 40 samples of AI voices – both using real people’s voices and creating entirely new voices – using a tool called ElevenLabs. The researchers also collected 40 recording samples of people’s actual voices. All 80 of these clips were edited and cleaned for quality. The research team used male and female voices with British, American, Australian and Indian accents in the samples. ElevenLabs offers an “African” accent as well, but the researchers found that the accent label was “too general for our purposes”. The team recruited 50 participants aged 18-65 in the United Kingdom for the tests. They were asked to listen to the recordings to try to distinguish between the AI voices and the real human voices. They were also asked which voices sounded more trustworthy. The study found that while the “new” voices generated entirely by AI were less convincing to the participants, the deepfakes or voice clones were rated about equally realistic as the real human voices. Forty-one percent of AI-generated voices and 58 percent of voice clones were mistaken for real human voices. Additionally, the participants were more likely to rate British-accented voices as real or human compared with those with American accents, suggesting that the AI voices are extremely sophisticated. More worrying, the participants tended to rate the AI-generated voices as more trustworthy than the real human voices. This contrasts with previous research, which usually found AI voices less trustworthy, signalling, again, that AI has become particularly sophisticated at generating fake voices. “One likely explanation for why state-of-the-art AI voice generation has become much more sophisticated recently might be that the models are now trained on vast, high-quality training data sets,” Lavan said. “That just means that the models get much more information about how voices work, such that it can build up a more detailed picture,” Lavan said. She explained that AI can create more realistic voices by mimicking different accents, intonation, speaking patterns, even breathing sounds and speech errors. Should we all be very worried about this? While AI-generated audio that sounds very “human” can be useful for industries such as advertising and film editing, it can be misused in scams and to generate fake news. Scams similar to the one that targeted the Italian businessmen are already on the rise. In the United States, there have been reports of people receiving calls featuring deepfake voices of their relatives saying they are in trouble and requesting money. Advertisement Between January and June this year, people all over the world have lost more than $547.2m to deepfake scams, according to data by the California-based AI company Resemble AI. Showing an upward trend, the figure rose from about $200m in the first quarter to $347m in the second. “If it only takes a few minutes [or even a few seconds] of recording of a voice to clone it in a reasonably convincing manner, one obvious concern for highly realistic AI-generated voices is identity theft,” Lavan said. However, Lavan added that there are positive ways AI-generated voices are being used. “Beyond risks, though, one of the most promising and compassionate applications of AI-generated voice technology is its potential to restore voices for individuals who can no longer speak, or who have limited control over their physical voice,” Lavan said. “Today, users can choose to recreate their original voice, if that’s what they prefer, or design a completely new voice that reflects their identity and personal taste.” Can video also be deepfaked? Alarmingly, yes. AI programs can be used to generate deepfake videos of real people. This, combined with AI-generated audio, means video clips of people doing and saying things they have not done can be faked very convincingly. Furthermore, it is becoming increasingly difficult to distinguish which videos on the internet are real and which are fake. DeepMedia, a company working on tools to detect synthetic media, estimates that about eight million deepfakes will have been created and shared online by the end of this year – a huge increase from the 500,000 that were shared online in 2023. What else are deepfakes being used for? Besides the phone call fraud and fake news, AI deepfakes have been used to create sexual content about real people. Most worryingly, Resemble AI’s report, which was released in July, found that advances in AI have resulted in the industrialised production of AI-generated child sexual abuse material, which has overwhelmed law enforcement globally. In May this year, US President Donald Trump signed a bill making it a federal crime to publish intimate images of a person without their consent. This includes AI-generated deepfakes. Last month, the Australian government also announced that it would ban an application used to create deepfake nude images.
+
+**** *FUENTE_theguardian *13-02-2025 
+
+ Scarlett Johansson warns of dangers of AI after Kanye West deepfake goes viral
+Scarlett Johansson has warned of the “imminent dangers of AI” after a deepfake video of her and other prominent Jewish celebrities opposing recent antisemitic remarks from Kanye West went viral this week. The video contained AI-generated versions of more than a dozen celebrities, including Johansson, David Schwimmer, Jerry Seinfeld, Drake, Adam Sandler, Stephen Spielberg, and Mila Kunis. It opened with a deepfake likeness of Johansson in a T-shirt that was emblazoned with a hand and middle finger extended, a Star of David and the name Kanye. The video was set to an electronic version of “Hava Nagila”, a Jewish folk song that is typically played at celebratory cultural events, and ended with the slogan: “Enough is enough. Join the fight against antisemitism.” Other stars depicted included Sacha Baron Cohen, Jack Black, Natalie Portman, Adam Levine, Ben Stiller and Lenny Kravitz. “It has been brought to my attention by family members and friends, that an AI-generated video featuring my likeness, in response to an antisemitic view, has been circulating online and gaining traction,” Johansson said in a statement to People. “I am a Jewish woman who has no tolerance for antisemitism or hate speech of any kind. But I also firmly believe that the potential for hate speech multiplied by AI is a far greater threat than any one person who takes accountability for it. We must call out the misuse of AI, no matter its messaging, or we risk losing a hold on reality.” West, now known as Ye, repeatedly referred to himself as a “Nazi” and praised Hitler on X before deactivating his account. He also appeared in an advert during the Super Bowl directing people to his website, which started selling only one product – T-shirts with swastikas on them. The site was later taken down by Shopify due to policy violations, while Fox Television Stations CEO, Jack Abernethy, also condemned the ad in a note to staff. Johansson has been one of the most vocal celebrities against the use of non-consensual AI. Last year she threatened legal action against OpenAI after the company used a voice resembling her own in its new ChatGPT product – nine months after she said she turned down the company’s request to voice their AI system. OpenAI eventually removed the heavily promoted voice option from ChatGPT after a widespread reaction. Johansson said she had been “a very public victim of AI, but the truth is that the threat of AI affects each and every one of us”. She added: “There is a 1,000-foot wave coming regarding AI that several progressive countries, not including the United States, have responded to in a responsible manner. It is terrifying that the US government is paralysed when it comes to passing legislation that protects all of its citizens against the imminent dangers of AI.” The actor urged elected officials to take legislative action against AI abuses, calling it a “bipartisan issue that enormously affects the immediate future of humanity at large”. Her comments come as the UK’s Advertising Standards Authority said fake adverts featuring celebrities remain the most common type of scam adverts appearing online. The AI video was created by Ori Bejerano, who describes himself as a generative AI expert on his Instagram bio. His original post included a notice that said the content was “digitally created or altered with AI to seem real”.
+
+
+**** *FUENTE_theguardian *27-06-2025 
+
+
+ Denmark to tackle deepfakes by giving people copyright to their own features
+The Danish government is to clamp down on the creation and dissemination of AI-generated deepfakes by changing copyright law to ensure that everybody has the right to their own body, facial features and voice. The Danish government said on Thursday it would strengthen protection against digital imitations of people’s identities with what it believes to be the first law of its kind in Europe. Having secured broad cross-party agreement, the department of culture plans to submit a proposal to amend the current law for consultation before the summer recess and then submit the amendment in the autumn. It defines a deepfake as a very realistic digital representation of a person, including their appearance and voice. The Danish culture minister, Jakob Engel-Schmidt, said he hoped the bill before parliament would send an “unequivocal message” that everybody had the right to the way they looked and sounded. He told the Guardian: “In the bill we agree and are sending an unequivocal message that everybody has the right to their own body, their own voice and their own facial features, which is apparently not how the current law is protecting people against generative AI.” He added: “Human beings can be run through the digital copy machine and be misused for all sorts of purposes and I’m not willing to accept that.” The move, which is believed to have the backing of nine in 10 MPs, comes amid rapidly developing AI technology that has made it easier than ever to create a convincing fake image, video or sound to mimic the features of another person. The changes to Danish copyright law will, once approved, theoretically give people in Denmark the right to demand that online platforms remove such content if it is shared without consent. It will also cover “realistic, digitally generated imitations” of an artist’s performance without consent. Violation of the proposed rules could result in compensation for those affected. The government said the new rules would not affect parodies and satire, which would still be permitted. skip past newsletter promotion Sign up to TechScape Free weekly newsletter A weekly dive in to how technology is shaping our lives Enter your email address Sign up Privacy Notice: Newsletters may contain information about charities, online ads, and content funded by outside parties. If you do not have an account, we will create a guest account for you on Newsletters may contain information about charities, online ads, and content funded by outside parties. If you do not have an account, we will create a guest account for you on theguardian.com to send you this newsletter. You can complete full registration at any time. For more information about how we use your data see our Privacy Policy . We use Google reCaptcha to protect our website and the Google Privacy Policy and Terms of Service apply. after newsletter promotion “Of course this is new ground we are breaking, and if the platforms are not complying with that, we are willing to take additional steps,” said Engel-Schmidt. Other European countries, he hopes, will follow Denmark’s lead. He plans to use Denmark’s forthcoming EU presidency to share its plans with his European counterparts. If tech platforms do not respond accordingly to the new law, they could be subject to “severe fines”, he said, and it could become a matter for the European Commission. “That is why I believe the tech platforms will take this very seriously indeed,” he added.
+
+
+
+**** *FUENTE_theguardian *10-04-2025
+
+OpenAI launch of video app Sora plagued by violent and racist images: ‘The guardrails are not real’
+OpenAI launched the latest iteration of its artificial intelligence-powered video generator on Tuesday, adding a social feed that allows people to share their realistic videos. Within hours of Sora 2’s, release, though, many of the videos populating the feed and spilling over to older social media platforms depicted copyrighted characters in compromising situations as well as graphic scenes of violence and racism. OpenAI’s own terms of service for Sora as well as ChatGPT’s image or text generation prohibit content that “promotes violence” or, more broadly, “causes harm”. In prompts and clips reviewed by the Guardian, Sora generated several videos of bomb and mass-shooting scares, with panicked people screaming and running across college campuses and in crowded places like New York’s Grand Central Station. Other prompts created scenes from war zones in Gaza and Myanmar, where children fabricated by AI spoke about their homes being burned. One video with the prompt “Ethiopia footage civil war news style” had a reporter in a bulletproof vest speaking into a microphone saying the government and rebel forces were exchanging fire in residential neighborhoods. Another video, created with only the prompt “Charlottesville rally”, showed a Black protester in a gas mask, helmet and goggles yelling: “You will not replace us” – a white supremacist slogan. Live Live OpenAI Sora 2 generated video 1 The video generator is invite-only and not yet available to the general public. Even still, in the three days since its limited release, it skyrocketed to the No 1 spot in Apple’s App Store, beating out OpenAI’s own ChapGPT. “It’s been epic to see what the collective creativity of humanity is capable of so far,” Bill Peebles, the head of Sora, posted on X on Friday. “We’re sending more invite codes soon, I promise!” The Sora app gives a glimpse into a near future where separating truth from fiction could become increasingly difficult, should the videos spread widely beyond the AI-only feed, as they have begun to. Misinformation researchers say that such lifelike scenes could obfuscate the truth and create situations where these AI videos could be used for fraud, bullying and intimidation. “It has no fidelity to history, it has no relationship to the truth,” said Joan Donovan, an assistant professor at Boston University who studies media manipulation and misinformation. “When cruel people get their hands on tools like this, they will use them for hate, harassment and incitement.” Slop engine or ‘ChatGPT for creativity’? OpenAI’s CEO Sam Altman described the launch of Sora 2 as “really great”, saying in a blog post that “this feels to many of us like the ‘ChatGPT for creativity’ moment, and it feels fun and new”. Altman admitted to “some trepidation”, acknowledging how social media can be addictive and used for bullying and that AI video generation can create what’s known as “slop”, a slew of repetitive, low-quality videos that can overwhelm a platform. “The team has put great care and thought into trying to figure out how to make a delightful product that doesn’t fall into that trap,” Altman wrote. He said OpenAI had also put in place mitigations on using someone’s likeness and safeguards for disturbing or illegal content. For example, the app refused to make a video of Donald Trump and Vladimir Putin sharing cotton candy. 0:10 OpenAI Sora 2 generated video 2 In the three days since Sora’s launch, however, many of these videos have already made their way elsewhere online. Drew Harwell, a reporter for the Washington Post, created a video of Altman himself as a second world war military leader. Harwell also said he was able to make videos with “ragebait, fake crimes and women splattered with white goo”. Sora’s feed is full of videos of copyrighted characters from shows like SpongeBob SquarePants, South Park and Rick and Morty. The app had no trouble generating videos of Pikachu raising tariffs on China, stealing roses from the White House Rose Garden or participating in a Black Lives Matter protest alongside SpongeBob, who, in another video, declared and planned a war on the United States. In a video documented by 404 Media, SpongeBob was dressed like Adolf Hitler. Paramount, Warner Bros and Pokémon Co did not return requests for comment. David Karpf, an associate professor at George Washington University’s School of Media and Public Affairs, said he had viewed videos of copyrighted characters promoting cryptocurrency scams. He said it’s clear OpenAI’s safeguards and mitigations for Sora aren’t working. skip past newsletter promotion Sign up to TechScape Free weekly newsletter A weekly dive in to how technology is shaping our lives Enter your email address Sign up Privacy Notice: Newsletters may contain information about charities, online ads, and content funded by outside parties. If you do not have an account, we will create a guest account for you on Newsletters may contain information about charities, online ads, and content funded by outside parties. If you do not have an account, we will create a guest account for you on theguardian.com to send you this newsletter. You can complete full registration at any time. For more information about how we use your data see our Privacy Policy . We use Google reCaptcha to protect our website and the Google Privacy Policy and Terms of Service apply. after newsletter promotion 0:10 OpenAI Sora 2 generated video 4 “The guardrails are not real if people are already creating copyrighted characters promoting fake crypto scams,” Karpf said. “In 2022, [the tech companies] would have made a big deal about how they were hiring content moderators … In 2025, this is the year that tech companies have decided they don’t give a shit.” Copyright, copycat Shortly before OpenAI released Sora 2, the company reached out to talent agencies and studios, alerting them that if they didn’t want their copyrighted material replicated by the video generator, they would have to opt out, according to a report by the Wall Street Journal. OpenAI told the Guardian that content owners can flag copyright infringement using a “copyright disputes form”, but that individual artists or studios cannot have a blanket opt-out. Varun Shetty, OpenAI’s head of media partnerships, said: “We’ll work with rights holders to block characters from Sora at their request and respond to takedown requests.” Emily Bender, a professor at the University of Washington and author of the book The AI Con, said Sora is creating a dangerous situation where it’s “harder to find trustworthy sources and harder to trust them once found”. “Synthetic media machines, whether designed to extrude text, images or video, are a scourge on our information ecosystem,” Bender said. “Their outputs function analogously to an oil spill, flowing through connections of technical and social infrastructure, weakening and breaking relationships of trust.” Nick Robins-Early contributed reporting
+
+
+
+**** *FUENTE_apnews *12-10-2024
+
+
+
+OpenAI releases AI video generator Sora but limits how it depicts people
+SAN FRANCISCO (AP) — OpenAI has publicly released its new artificial intelligence video generator Sora but the company won’t let most users depict people as it monitors for patterns of misuse. Users of a premium version of OpenAI’s flagship product ChatGPT can now use Sora to instantly create AI-generated videos based on written commands. Among the highlighted examples are high-quality video clips of sumo-wrestling bears and a cat sipping coffee. But only a small set of invited testers can use Sora to make videos of humans as OpenAI works to “address concerns around misappropriation of likeness and deepfakes,” the company said in a blog post. Text-to-video AI tools like Sora have been pitched as a way to save costs in making new entertainment and marketing videos but have also raised concerns about the ease with which they could impersonate real people in politics and otherwise. OpenAI says it is blocking content with nudity and that a top priority is preventing the most harmful uses, including child sexual abuse material and sexual deepfakes. The highly anticipated product received so much response upon its Monday release that OpenAI has temporarily paused the creation of new accounts. “We’re currently experiencing heavy traffic and have temporarily disabled Sora account creation,” according to its webpage. OpenAI first unveiled Sora earlier this year but said it wanted to first engage with artists, policymakers and others before releasing the new tool to the public. The company, which has been sued by some authors and The New York Times over its use of copyrighted works of writing to train ChatGPT, hasn’t disclosed what imagery and video sources were used to train Sora. ———— The Associated Press and OpenAI have a licensing and technology agreement allowing OpenAI access to part of the AP’s text archives.
+
+
+**** *FUENTE_apnews *04-03-2025 
+
+Creating and sharing deceptive AI-generated media is now a crime in New Jersey
+Add AP News as your preferred source to see more of our stories on Google. NEWARK, N.J. (AP) — Creating and sharing deceptive media made with artificial intelligence is now a crime in New Jersey and open to lawsuits under a new state law. Democratic Gov. Phil Murphy signed legislation Wednesday making the creation and dissemination of so-called deceptive deepfake media a crime punishable by up to five years in prison, and establishing a basis for lawsuits against perpetrators. New Jersey joins a growing list of states enacting measures taking aim at media created using generative AI. At least 20 states have passed similar legislation that targets such media involving elections. As of last year, governors in more than a dozen states had signed laws cracking down on digitally created or altered child sexual abuse imagery, according to a review by The National Center for Missing & Exploited Children. New Jersey’s law stems in part from the story of Westfield High School student Francesca Mani, who stood alongside the governor as he signed the bill this week. Mani said she became the victim of a deepfake video two years ago and was told that the only punishment for the person who created it was a short suspension because there were no laws against such media. “Doing nothing is no longer an option,” said Mani, who pushed for the legislation and was recognized by Time last year as an anti-deepfake activist. The measure defines a deepfake as any video or audio recording or image that appears to a reasonable person to realistically depict someone doing something they did not actually do. In addition to prison time upon conviction, the law establishes civil penalties that would permit victims to pursue lawsuits.
+
+**** *FUENTE_apnews *28-07-2025
+
+
+Creating realistic deepfakes is getting easier than ever. Fighting back may take even more AI
+WASHINGTON (AP) — The phone rings. It’s the secretary of state calling. Or is it? For Washington insiders, seeing and hearing is no longer believing, thanks to a spate of recent incidents involving deepfakes impersonating top officials in President Donald Trump’s administration. Digital fakes are coming for corporate America, too, as criminal gangs and hackers associated with adversaries including North Korea use synthetic video and audio to impersonate CEOs and low-level job candidates to gain access to critical systems or business secrets. Thanks to advances in artificial intelligence, creating realistic deepfakes is easier than ever, causing security problems for governments, businesses and private individuals and making trust the most valuable currency of the digital age. Responding to the challenge will require laws, better digital literacy and technical solutions that fight AI with more AI. “As humans, we are remarkably susceptible to deception,” said Vijay Balasubramaniyan, CEO and founder of the tech firm Pindrop Security. But he believes solutions to the challenge of deepfakes may be within reach: “We are going to fight back.” AI deepfakes become a national security threat This summer, someone used AI to create a deepfake of Secretary of State Marco Rubio in an attempt to reach out to foreign ministers, a U.S. senator and a governor over text, voice mail and the Signal messaging app. In May someone impersonated Trump’s chief of staff, Susie Wiles. Another phony Rubio had popped up in a deepfake earlier this year, saying he wanted to cut off Ukraine’s access to Elon Musk’s Starlink internet service. Ukraine’s government later rebutted the false claim. The national security implications are huge: People who think they’re chatting with Rubio or Wiles, for instance, might discuss sensitive information about diplomatic negotiations or military strategy. “You’re either trying to extract sensitive secrets or competitive information or you’re going after access, to an email server or other sensitive network,” Kinny Chan, CEO of the cybersecurity firm QiD, said of the possible motivations. Synthetic media can also aim to alter behavior. Last year, Democratic voters in New Hampshire received a robocall urging them not to vote in the state’s upcoming primary. The voice on the call sounded suspiciously like then-President Joe Biden but was actually created using AI. Their ability to deceive makes AI deepfakes a potent weapon for foreign actors. Both Russia and China have used disinformation and propaganda directed at Americans as a way of undermining trust in democratic alliances and institutions. Steven Kramer, the political consultant who admitted sending the fake Biden robocalls, said he wanted to send a message of the dangers deepfakes pose to the American political system. Kramer was acquitted last month of charges of voter suppression and impersonating a candidate. “I did what I did for $500,” Kramer said. “Can you imagine what would happen if the Chinese government decided to do this?” Scammers target the financial industry with deepfakes The greater availability and sophistication of the programs mean deepfakes are increasingly used for corporate espionage and garden variety fraud. “The financial industry is right in the crosshairs,” said Jennifer Ewbank, a former deputy director of the CIA who worked on cybersecurity and digital threats. “Even individuals who know each other have been convinced to transfer vast sums of money.” In the context of corporate espionage, they can be used to impersonate CEOs asking employees to hand over passwords or routing numbers. Deepfakes can also allow scammers to apply for jobs — and even do them — under an assumed or fake identity. For some this is a way to access sensitive networks, to steal secrets or to install ransomware. Others just want the work and may be working a few similar jobs at different companies at the same time. Authorities in the U.S. have said that thousands of North Koreans with information technology skills have been dispatched to live abroad, using stolen identities to obtain jobs at tech firms in the U.S. and elsewhere. The workers get access to company networks as well as a paycheck. In some cases, the workers install ransomware that can be later used to extort even more money. The schemes have generated billions of dollars for the North Korean government. Within three years, as many as 1 in 4 job applications is expected to be fake, according to research from Adaptive Security, a cybersecurity company. “We’ve entered an era where anyone with a laptop and access to an open-source model can convincingly impersonate a real person,” said Brian Long, Adaptive’s CEO. “It’s no longer about hacking systems — it’s about hacking trust.” Experts deploy AI to fight back against AI Researchers, public policy experts and technology companies are now investigating the best ways of addressing the economic, political and social challenges posed by deepfakes. New regulations could require tech companies to do more to identify, label and potentially remove deepfakes on their platforms. Lawmakers could also impose greater penalties on those who use digital technology to deceive others — if they can be caught. Greater investments in digital literacy could also boost people’s immunity to online deception by teaching them ways to spot fake media and avoid falling prey to scammers. The best tool for catching AI may be another AI program, one trained to sniff out the tiny flaws in deepfakes that would go unnoticed by a person. Systems like Pindrop’s analyze millions of datapoints in any person’s speech to quickly identify irregularities. The system can be used during job interviews or other video conferences to detect if the person is using voice cloning software, for instance. Similar programs may one day be commonplace, running in the background as people chat with colleagues and loved ones online. Someday, deepfakes may go the way of email spam, a technological challenge that once threatened to upend the usefulness of email, said Balasubramaniyan, Pindrop’s CEO. “You can take the defeatist view and say we’re going to be subservient to disinformation,” he said. “But that’s not going to happen.”
+
+
+
+**** *FUENTE_theweek *DATE 09-10-2025 
+
+
+Sora 2 and the fear of an AI video future
+OpenAI’s latest update of Sora, its text-to-video-creation tool, generates such realistic-looking content that misinformation experts are warning of media manipulation on an entirely new scale. Sora, along with Meta rival Vibes, is part of a “burgeoning family of AI tools” that allow people to create and share “hyperrealistic or fantastical content” for free, with only basic tech knowledge, said CBS News. And new with Sora 2 is a social feed that allows users to share the videos they generate, creating a “Tiktok-like experience”. When Open AI launched the original Sora last year, it contained many “errors” but the ramifications of its technology were “felt far and wide”, said Rolling Stone. The much improved Sora 2 only upscales its “potential for disinformation”. The Week Escape your echo chamber. Get the facts behind the news, plus analysis from multiple perspectives. SUBSCRIBE & SAVE Sign up for The Week's Free Newsletters From our morning news briefing to a weekly Good News Newsletter, get the best of The Week delivered directly to your inbox. From our morning news briefing to a weekly Good News Newsletter, get the best of The Week delivered directly to your inbox. Sign up ‘Copyright-infringing AI slop' There is “a long history” of OpenAI “moving fast, breaking things, and mopping up later”, said TechRadar. Not long after it launched, Sora 2 has melted down into a “messy pile of potentially copyright-infringing AI slop”, said Futurism. Users have been bombarded with videos of SpongeBob SquarePants meth labs, mock “South Park” episodes and – because Sora2 allows the use of “likenesses of the dead” – deepfakes of actor Robin Williams and scenes of physicist Stephen Hawking being “brutalised in horrible ways”. OpenAI is currently “burning through cash” as unexpectedly high numbers of Sora users generate “countless resource-intensive AI videos”. Despite the quality of the technology, there’s no indication that users will willingly pay to keep using it, so “turning Sora 2 into a source of revenue won’t be easy”. The energy needed to generate the videos is considerable, said Rolling Stone, citing MIT research that even a “short, non-high-definition clip may require more than 700 times the energy required to produce a high-quality still image”. This has already put “significant strain” on OpenAI’s servers and the US electricity grid, and requires a “tremendous amount of water” to cool data centre hardware. Control the ‘Frankensteinian monster’ Hollywood has long been awash with fear of actors being supplanted by AI and dead actors’ images and voices being used in AI-generated video material, said Ars Technica . Back in 2023, Robin Williams’ daughter, Zelda, called AI recreations a “horrendous Frankensteinian monster”. But now, faced with the reality of what the technology can do, she has made a public appeal to Sora fans to “please stop sending me AI videos of Dad”. Sign up for Today's Best Articles in your inbox A free daily email with the biggest news stories of the day – and the best features from TheWeek.com Contact me with news and offers from other Future brands Receive email from us on behalf of our trusted partners or sponsors OpenAI CEO Sam Altman has appeared apologetic about the use of actors within Sora. His company will offering an opt-out from “Sora cameos for public figures who are recently deceased” but a spokesperson insisted on the “strong free speech interests” in the continued use of images of “historical figures”.
+
+
+**** *FUENTE_calmatters  *07-01-2025
+
+California AI regulation safe after "big, beautiful bill" loses freeze
+In summary In the end, both Republicans and Democrats helped doom a 10-year moratorium on state artificial intelligence laws after it cleared the House. The U.S. Senate voted not to interfere with state artificial intelligence regulations, defeating a 10-year moratorium on such laws that had earlier cleared the House and alarmed California officials. The 99-1 vote to strip the moratorium from the president’s “big, beautiful” budget bill followed opposition from a handful of Republicans. Dissenting from GOP colleagues, they argued the measure would allow the proliferation of highly realistic, AI-enabled “deepfake” impersonation videos, endanger jobs and infringe on the rights of state governments. The small rebellion was enough to seal the moratorium’s fate, given Republicans’ slim majority in the Senate and united opposition from Democrats. “Federalism is preserved and humans are safe for now,” one of the Republican dissenters, Rep. Marjorie Taylor Greene of Georgia, wrote following the vote. In California, the moratorium would have threatened 20 AI laws on the books and 30 more proposals that are before the Legislature. State officials, including Attorney General Rob Bonta and the executive director of the California Privacy Protection Agency, came out against the measure. Some 43 states have enacted 131 AI regulations since 2016, according to Stanford researchers. California state Sen. Josh Becker, a Democrat from Menlo Park who authored an AI disclosure law, said he was encouraged that Congress “came to its senses.” “This decision preserves California’s ability to lead on consumer privacy and protections while cultivating the responsible development of AI that serves the public interest,” he wrote in an email message. “In the absence of a strong federal standard, states must retain the flexibility to advance AI in ways that do not compromise safety, privacy, or the rights of our residents.” Key to the moratorium’s defeat was pressure from a wide range of advocacy groups, said Ben Winters of the Consumer Federation of America. Organizations ranging from the Teamsters to the NAACP to the National Association of Evangelicals opposed the measure. “The tech lobby attempted to manipulate the legislative process, but they were soundly defeated,” Winters wrote. “This outcome sends a clear signal that special interest groups cannot simply override public concerns with backroom deals, and that everyday people can successfully challenge corporate overreach.” Prior to its defeat, the moratorium had already been watered down in the Senate, reduced in duration to five years and in scope to states that wanted access to $500 million in new federal funding for AI infrastructure and broadband deployment. The battle over the measure underlined the bipartisan nature of concern around AI. “This is how you take on big tech!” Arkansas Gov. Sarah Huckabee Sanders, a Republican, wrote on social media after the Senate vote.
+
+
+**** *FUENTE_businessinsider  *2025
+
+
+MrBeast calls out AI as a threat to YouTubers' livelihoods: 'Scary times'
+This story is available exclusively to Business Insider subscribers. Become an Insider and start reading now. MrBeast is feeling uneasy about AI. The world's top YouTuber thinks AI-generated videos could threaten the livelihoods of creators. "When AI videos are just as good as normal videos, I wonder what that will do to YouTube and how it will impact the millions of creators currently making content for a living," MrBeast, whose real name is Jimmy Donaldson, posted on X. "Scary times." The creator's comments arrive as platforms like YouTube and OpenAI introduce new AI tools that make video generation much easier to accomplish. Last week, OpenAI launched Sora 2, a new version of its generative AI video feature that lets users insert themselves into videos with a simple text prompt. The resulting videos can appear real (though often a bit uncanny). In September, YouTube announced a slew of new AI video tools for creators, including the ability for audio podcasters to generate short videos from transcripts. The wave of new AI technology has some creators, like MrBeast, spooked. If AI-generated videos continue to advance, it may soon become difficult for viewers to distinguish between human-generated and AI-generated content. How will YouTubers compete with machines that can create, edit, and post content instantly? MrBeast knows firsthand that AI is a hot-button issue in the creator world. In June, he faced a wave of backlash after releasing an AI tool that helped creators generate thumbnail images for YouTube. Donaldson quickly pulled down the feature and instead directed users to hire human artists. "I care more than any of you could ever imagine about the YouTube community," Donaldson said at the time. "It deeply makes me sad when I do something that people in the community are upset by." MrBeast did not provide additional comment on his most recent post on X.
+
+
+**** *FUENTE_businessinsider  *2025
+
+South Korea could give those who watch deepfake porn 3 years in prison or a fine of up to $23K
+Activists participate in an anti-deepfake rally to respond to deepfake porn in Seoul, South Korea, on September 4, 2024. Activists participate in an anti-deepfake rally to respond to deepfake porn in Seoul, South Korea, on September 4, 2024. Chung Sung-Jun/Getty Images Activists participate in an anti-deepfake rally to respond to deepfake porn in Seoul, South Korea, on September 4, 2024. Chung Sung-Jun/Getty Images lighning bolt icon An icon in the shape of a lightning bolt. lighning bolt icon An icon in the shape of a lightning bolt. Impact Link Have an account? Log in . This story is available exclusively to Business Insider subscribers. Become an Insider and start reading now. South Korean lawmakers have passed a law that would ban the possession and watching of deepfake porn, with severe penalties for those caught violating it. Anyone caught watching, saving, or purchasing such material could face up to three years in prison, according to Reuters. The news agency said that an alternative punishment would be a fine of up to 30 million won, equivalent to about $22,870 in US currency. The law was passed on Thursday and is awaiting the president's approval to be enacted. South Korea had already criminalized the creation of sexually explicit deepfakes. Those caught creating such content in order to distribute it face up to five years in prison or a fine of 50 million won, about $38,109. The new legislation aims to expand on the earlier law by targeting the consumers of deepfake porn, as South Korea grapples with sexually explicit AI-generated content. A report on deepfakes by Security Hero, a US-based identity theft protection startup, found that in 2023, South Korean singers and actresses were the most commonly targeted group, making up 53% of the individuals featured in deepfake pornography. Related stories Business Insider tells the innovative stories you want to know Business Insider tells the innovative stories you want to know Earlier this month, South Koreans protested in Seoul to demand an end to non-consensual deepfake porn. These videos are often found in Telegram chatrooms, per Reuters. According to AFP, authorities last month discovered a vast network of these deepfake porn chatrooms, which sometimes targeted school and university staff and students. South Korean regulators met with Telegram as part of a nationwide crackdown, which led to the removal of 148 videos, per AFP. Security Hero said that in 2023, the total number of deepfake videos online was 95,820, with 98% of those being pornographic in nature. In the US, there is a bipartisan effort, led by Sens. Ted Cruz and Amy Klobuchar, to pass legislation that would criminalize the publication of non-consensual, sexually exploitative images, including AI-generated deepfakes.
+
+
+**** *FUENTE_wired  *29-09-2025
+
+OpenAI Is Preparing to Launch a Social App for AI-Generated Videos
+OpenAI is preparing to launch a stand-alone app for its video generation AI model Sora 2, WIRED has learned. The app, which features a vertical video feed with swipe-to-scroll navigation, appears to closely resemble TikTok—except all of the content is AI-generated. There’s a For You–style page powered by a recommendation algorithm. On the right side of the feed, a menu bar gives users the option to like, comment, or remix a video. Users can create videoclips up to 10 seconds long using OpenAI’s next-generation video model, according to documents viewed by WIRED. There is no option to upload photos or videos from a user’s camera roll or other apps. The Sora 2 App has an identity verification feature that allows users to confirm their likeness. If a user has verified their identity, they can use their likeness in videos. Other users can also tag them and use their likeness in clips. For example, someone could generate a video of themselves riding a roller coaster at a theme park with a friend. Users will get a notification whenever their likeness is used—even if the clip remains in draft form and is never posted, sources say. OpenAI launched the app internally last week. So far, it’s received overwhelmingly positive feedback from employees, according to documents viewed by WIRED. Employees have been using the tool so frequently that some managers have joked it could become a drain on productivity. OpenAI declined to comment. OpenAI appears to be betting that the Sora 2 app will let people interact with AI-generated video in a way that fundamentally changes their experience of the technology—similar to how ChatGPT helped users realize the potential of AI-generated text. Internally, sources say, there’s also a feeling that President Trump’s on-again, off-again deal to sell TikTok’s US operations has given OpenAI a unique opportunity to launch a short-form video app—particularly one without close ties to China.
+
+
